@@ -1,3 +1,21 @@
- .navbar {
+/*
+  .navbar {
   min-height: 150px;
 }
+*/
+
+div#loading {
+    width: 50px;
+    height: 50px;
+    display: none;
+    background: url(ajax-loader.gif) no-repeat;/*http://www.ajaxload.info/*/
+    cursor: wait;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+    }
+
+div#content {}

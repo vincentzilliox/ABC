@@ -1,23 +1,22 @@
-import os
+import os, subprocess
 import datetime
-from flask import Flask, flash, request, redirect, url_for, send_from_directory, render_template
+import time
+from flask import Flask, flash, request, redirect, url_for, send_from_directory, render_template, Response
 from werkzeug import secure_filename
 from werkzeug.utils import secure_filename
 from werkzeug import SharedDataMiddleware
+from . import vcf
+
 
 UPLOAD_FOLDER = '/uploads'
-ALLOWED_EXTENSIONS = set(['txt', 'tsv', 'vcf','csv'])
 CURRENT_DATE = datetime.datetime.now().strftime("%F").replace("-","")+"-"+datetime.datetime.now().strftime("%T").replace(":","")
-
-def allowed_file(filename):
-    return '.' in filename and \
-        filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 def create_app():
     # create and configure the app
     app = Flask(__name__)
     app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
     app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
+    PYTHON_SCRIPT_tsvToCanDiD = os.path.join(app.root_path, 'toolkit', 'tsvToCanDiD.py')
 
     @app.route('/')
     def home():
@@ -29,22 +28,28 @@ def create_app():
         if request.method == 'POST' and 'filelist' in request.files:
             outputfilename=CURRENT_DATE+".merged.final.tsv"
             outputfile=app.config['UPLOAD_FOLDER']+"/"+outputfilename
-            outfile = open(outputfile, "w")
+            outputlog=outputfile+".log"
+            inputfilelist = []
             for f in request.files.getlist('filelist'):
                 f.save(os.path.join(app.config['UPLOAD_FOLDER'], f.filename))
                 file_to_process=app.config['UPLOAD_FOLDER']+"/"+f.filename
-                infile = open(file_to_process, "r")
-                for line in infile:
-                    outfile.write(line.strip()+"\tprocessed\n")
-                infile.close()
-            outfile.close()
+                inputfilelist.append(file_to_process)
+
+            #vcf.write_processed_file(inputfilelist, outputfile)
+            subprocess.call("python2.7 "+PYTHON_SCRIPT_tsvToCanDiD+" --help &> "+outputfile, shell=True)
+            subprocess.call("python2.7 "+PYTHON_SCRIPT_tsvToCanDiD+" --help &> "+outputlog, shell=True)
+
             return redirect(url_for('uploaded', filename=outputfilename))
         return render_template('vcf/upload.html')
 
-    @app.route('/upload/<filename>')
+    @app.route('/uploaded/<filename>', methods=['GET', 'POST'])
     def uploaded(filename):
-        return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+        #return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+        return render_template('vcf/uploaded.html', filename=filename)
 
+    @app.route('/upload/<filename>', methods=['GET'])
+    def getuploaded(filename):
+       return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 
     return app

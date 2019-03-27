@@ -5,8 +5,13 @@
 {% endblock %}
 
 {% block content %}
-	<form method="POST" enctype="multipart/form-data">
-	    <input type="file" name="filelist" multiple>
-	    <input type="submit" value="Submit">
-	</form>  
+	<div id="loading">
+		<p>loading</p>
+	</div>
+	<div id="content">
+		<form method="POST" enctype="multipart/form-data">
+		    <input type="file" name="filelist" multiple>
+		    <input type="submit" value="Submit" onclick="loading();">
+		</form>
+	</div>
 {% endblock %}

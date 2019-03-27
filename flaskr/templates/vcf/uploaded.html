@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}vcf uploaded{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <a href="{{ url_for('getuploaded', filename=filename) }}">
+    <button>Download Results</button>
+  </a>
+  <a href="{{ url_for('getuploaded', filename=filename+'.log') }}">
+    <button>Show logs</button>
+  </a>
+{% endblock %}
