@@ -1,2 +1,2 @@
 # ABC
-Annoying Bioinformatics Curation
+Annoying Bioinformatic Curation
