@@ -139,6 +139,41 @@ def getHGNCDB(dict_entry,DB_HGNC_file,genekey,HGNCidDefaut):
 				print >> sys.stderr,"WARNING - field "+genekey+" doesn't exist in input file"
 	return dict_entry
 
+def getCOVARDB(dict_entry,oldHeader,DB_COVAR_file):
+	if "COVAR_ANN" not in oldHeader:
+		oldHeader["COVAR_ANN"]="COVAR_ANN"
+	if "COVAR_COM" not in oldHeader:
+		oldHeader["COVAR_COM"]="COVAR_COM"
+	DB_COVAR={}
+	with open(DB_COVAR_file, 'r') as infile:
+		for nlines in infile:
+			ncolonne = nlines.split('\n')
+			colonne = ncolonne[0].split('\t')
+			TRANSCRIT = colonne[1].split('.')[0]
+			CNOMEN=colonne[2]
+			COVAR_ANN=colonne[3]
+			COVAR_COM=colonne[4]
+			if TRANSCRIT not in DB_COVAR:
+				DB_COVAR[TRANSCRIT]={}
+			if CNOMEN not in DB_COVAR[TRANSCRIT]:
+				DB_COVAR[TRANSCRIT][CNOMEN]={}
+			DB_COVAR[TRANSCRIT][CNOMEN]["COVAR_ANN"]=str(COVAR_ANN)
+			DB_COVAR[TRANSCRIT][CNOMEN]["COVAR_COM"]=str(COVAR_COM)
+	for fileName in dict_entry:
+		for keyName in dict_entry[fileName]:
+			TNOMEN=dict_entry[fileName][keyName]["transcript_name"].split('.')[0]
+			CNOMEN=dict_entry[fileName][keyName]["cNomen"]
+			COVAR_ANN=""
+			COVAR_COM=""
+			if TNOMEN in DB_COVAR:
+				if CNOMEN in DB_COVAR[TNOMEN]:
+					COVAR_ANN=DB_COVAR[TNOMEN][CNOMEN]["COVAR_ANN"]
+					COVAR_COM=DB_COVAR[TNOMEN][CNOMEN]["COVAR_COM"]
+			dict_entry[fileName][keyName]["COVAR_ANN"]=COVAR_ANN
+			dict_entry[fileName][keyName]["COVAR_COM"]=COVAR_COM
+	return dict_entry,oldHeader
+			
+
 def trimming(dict_entry,cutbylength):
 	for fileName in dict_entry:
 		for keyName in dict_entry[fileName]:
@@ -158,18 +193,18 @@ def splitCHROM(dict_entry,chromkey):
 	return dict_entry
 
 def arrangeCNOMEN(dict_entry):
-        for fileName in dict_entry:
-                for keyName in dict_entry[fileName]:
-                        if "CNOMEN" in dict_entry[fileName][keyName]:
-                                if dict_entry[fileName][keyName]["CNOMEN"] == "":
-                                        dict_entry[fileName][keyName]["CNOMEN"]="g."+dict_entry[fileName][keyName]["POS"]+dict_entry[fileName][keyName]["REF"]+">"+dict_entry[fileName][keyName]["ALT"]
-                        else:
-                                print >> sys.stderr,"WARNING - field CNOMEN doesn't exist in input file"
-        		if "TNOMEN" in dict_entry[fileName][keyName]:
-                                if dict_entry[fileName][keyName]["TNOMEN"] == "":
-                                        dict_entry[fileName][keyName]["TNOMEN"]=dict_entry[fileName][keyName]["CHROM"]
+	for fileName in dict_entry:
+		for keyName in dict_entry[fileName]:
+			if "CNOMEN" in dict_entry[fileName][keyName]:
+				if dict_entry[fileName][keyName]["CNOMEN"] == "":
+					dict_entry[fileName][keyName]["CNOMEN"]="g."+dict_entry[fileName][keyName]["POS"]+dict_entry[fileName][keyName]["REF"]+">"+dict_entry[fileName][keyName]["ALT"]
+				else:
+					print >> sys.stderr,"WARNING - field CNOMEN doesn't exist in input file"
+			if "TNOMEN" in dict_entry[fileName][keyName]:
+				if dict_entry[fileName][keyName]["TNOMEN"] == "":
+					dict_entry[fileName][keyName]["TNOMEN"]=dict_entry[fileName][keyName]["CHROM"]
 			else:
-                                print >> sys.stderr,"WARNING - field TNOMEN doesn't exist in input file"
+				print >> sys.stderr,"WARNING - field TNOMEN doesn't exist in input file"
 	return dict_entry
 
 
@@ -256,6 +291,44 @@ def getSplice(dict_entry,oldHeader):
 			else:
 				dict_entry[fileName][keyName]["SPLICE"]="NO"
 	return dict_entry,oldHeader
+
+
+
+def get_deep_intron(dict_entry,oldHeader):
+	if "DEEP_INTRON" not in oldHeader:
+		oldHeader["DEEP_INTRON"]="DEEP_INTRON"
+	for fileName in dict_entry:
+		for keyName in dict_entry[fileName]:
+			if "cNomen" not in dict_entry[fileName][keyName]:
+				print >> sys.stderr,"ERROR - field \"cNomen\" doesn't exit in files, you can't use option --deepintron (EXIT)"
+				sys.exit()
+			CNOMEN=dict_entry[fileName][keyName]["cNomen"]
+			if "-" not in CNOMEN and "+" not in CNOMEN:
+				dict_entry[fileName][keyName]["DEEP_INTRON"]="null"
+			else:
+				var=CNOMEN.split(".")
+				if (len(var)!=2):
+					dict_entry[fileName][keyName]["DEEP_INTRON"]="miss"
+				else:
+					var=var[1].split(">")[0]
+				tmplist=[]
+				startcount=False
+				for char in var:
+					if not char.isdigit() and startcount:
+						tmplist.append(distance)
+						startcount=False
+					if char == "-" or char == "+":
+						distance=""
+						startcount=True
+					if char.isdigit() and startcount:
+						distance=distance+char
+				top_taget=max(tmplist)
+				if int(top_taget) >= 20:
+					dict_entry[fileName][keyName]["DEEP_INTRON"]="pass"
+				else:
+					dict_entry[fileName][keyName]["DEEP_INTRON"]="fail"
+	return dict_entry,oldHeader
+
 
 
 def checkMandatory(dict_entry,mandatory,oldHeader):
@@ -350,7 +423,7 @@ def priorizeList(dict_entry,Big_HEADER,priorize):
 			list_line=[]
 			for colonneName in list_HEADER:
 				colonneVALUE=dict_entry[filenames][keyName][colonneName]
-				list_line.append(colonneVALUE)
+				list_line.append(str(colonneVALUE))
 			list_file.append("\t".join(list_line))
 		list_entry[filenames]=list_file
 	return list_entry
@@ -501,6 +574,8 @@ def main():
 	O_Variant=False
 	O_priorize=False
 	O_splice=False
+	O_deepintron=False
+	O_covarann=False
 	O_annotation={}
 	O_calling={}
 
@@ -674,6 +749,10 @@ def main():
 			O_concat=data["Option"]["concat"]
 		if "splice" in data["Option"]:
 			O_splice=data["Option"]["splice"]
+		if "deepintron" in data["Option"]:
+			O_deepintron=data["Option"]["deepintron"]
+		if "covarann" in data["Option"]:
+			O_covarann=data["Option"]["covarann"]
 
 
 
@@ -719,8 +798,8 @@ def main():
 			step+=1
 		dicof,oldHeader=concat_fields(dicof,O_concat,oldHeader)
 
-        #a mettre en option!!!
-        dicof=arrangeCNOMEN(dicof)
+	#a mettre en option!!!
+	dicof=arrangeCNOMEN(dicof)
 
 	#RENAME FIELD WITH ALIAS
 	if O_alias:
@@ -730,12 +809,29 @@ def main():
 			step+=1
 		dicof,oldHeader=changeToAlias(dicof,O_alias,oldHeader)
 	
+	#GET SPLICE SITES
 	if O_splice:
 		if options.verbose:
 			print >> sys.stderr,"\nStep"+str(step)+" - Get n Splicing site"
 			print >> sys.stderr,"--splice="+str(O_splice)
 			step+=1
 		dicof,oldHeader=getSplice(dicof,oldHeader)
+
+	#GET DEEP INTRON SITES
+	if O_deepintron:
+		if options.verbose:
+			print >> sys.stderr,"\nStep"+str(step)+" - Get deep intron site"
+			print >> sys.stderr,"--deepintron="+str(O_deepintron)
+			step+=1
+		dicof,oldHeader=get_deep_intron(dicof,oldHeader)
+
+	#ADD COVAR ANNOTATIONS
+	if O_covarann:
+		if options.verbose:
+			print >> sys.stderr,"\nStep"+str(step)+" - add covar annotations"
+			print >> sys.stderr,"--covarann="+str(O_covarann)
+			step+=1
+		dicof,oldHeader=getCOVARDB(dicof,oldHeader,O_covarann)
 
 	#SPLIT CHR BEFORE CHROMOSOME NUMBER
 	if options.splitchr:

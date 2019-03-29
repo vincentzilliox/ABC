@@ -5,13 +5,24 @@
 {% endblock %}
 
 {% block content %}
-	<div id="loading">
-		<p>loading</p>
-	</div>
-	<div id="content">
-		<form method="POST" enctype="multipart/form-data">
-		    <input type="file" name="filelist" multiple>
-		    <input type="submit" value="Submit" onclick="loading();">
-		</form>
-	</div>
+  <div id="loading">
+    <p>loading</p>
+  </div>
+  <div id="content">
+    <form method="POST" enctype="multipart/form-data">
+      <input type="file" name="filelist" multiple>
+      <input type="submit" value="Submit" onclick="loading();">
+    </form>
+    <form method="POST"> 
+      Split Chromosome: <input type="text" name="splitchr" value="False"><br>
+      Trim Lines: <input type="text" name="trimming" value="True"><br>
+      Cars : <select name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="fiat">Fiat</option>
+        <option value="audi">Audi</option>
+      </select> 
+    </form>
+    Auto Match: <input type="checkbox" name="match" value="matchwithpairs" checked>
+  </div>
 {% endblock %}

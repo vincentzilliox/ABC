@@ -26,6 +26,11 @@ def create_app():
     @app.route('/upload', methods=['GET', 'POST'])
     def upload():
         if request.method == 'POST' and 'filelist' in request.files:
+            
+            splitchr = request.form.get('splitchr')
+            trimming = request.form.get('trimming')
+            cars = request.form.get('cars')
+
             outputfilename=CURRENT_DATE+".merged.final.tsv"
             outputfile=app.config['UPLOAD_FOLDER']+"/"+outputfilename
             outputlog=outputfile+".log"
@@ -35,16 +40,14 @@ def create_app():
                 file_to_process=app.config['UPLOAD_FOLDER']+"/"+f.filename
                 inputfilelist.append(file_to_process)
 
-            #vcf.write_processed_file(inputfilelist, outputfile)
             subprocess.call("python2.7 "+PYTHON_SCRIPT_tsvToCanDiD+" --help &> "+outputfile, shell=True)
-            subprocess.call("python2.7 "+PYTHON_SCRIPT_tsvToCanDiD+" --help &> "+outputlog, shell=True)
+            #subprocess.call("python2.7 "+PYTHON_SCRIPT_tsvToCanDiD+" --help &> "+outputlog, shell=True)
 
             return redirect(url_for('uploaded', filename=outputfilename))
         return render_template('vcf/upload.html')
 
     @app.route('/uploaded/<filename>', methods=['GET', 'POST'])
     def uploaded(filename):
-        #return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
         return render_template('vcf/uploaded.html', filename=filename)
 
     @app.route('/upload/<filename>', methods=['GET'])

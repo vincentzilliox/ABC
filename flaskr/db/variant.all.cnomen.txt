@@ -1,0 +1,1155 @@
+BRCA1	NM_007294.3	c.-273G>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.-264T>G	UV	pas d'infos
+BRCA1	NM_007294.3	c.-192T>C	Frequence	
+BRCA1	NM_007294.3	c.-36C>G	Likely Neutral	epissage neg
+BRCA1	NM_007294.3	c.-19-115T>C	Neutral	
+BRCA1	NM_007294.3	c.-19-85_-19-81del	Neutral	frequance
+BRCA1	NM_007294.3	c.-19-58_-19-56del	Likely Neutral	a voir dans gpe epissage, prediction bioinfo neg
+BRCA1	NM_007294.3	c.-19-24A>G	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.-19-22_-19-21dup	Likely Neutral	Nantes: variant a l'état homozygote, sans gd rea de B1: demande a Nantes si pas de signe de Fanconi
+BRCA1	NM_007294.3	c.21C>T	Neutral	1S+ frequence
+BRCA1	NM_007294.3	c.70T>C	Causal	
+BRCA1	NM_007294.3	c.80+38A>G	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.80+51A>G	Likely Neutral	
+BRCA1	NM_007294.3	c.81-189A>T	Neutral	frequnce +1hmz
+BRCA1	NM_007294.3	c.81-55T>C	Likely Neutral	épissage négatif par la bioinfo
+BRCA1	NM_007294.3	c.81-65G>C	Neutral	
+BRCA1	NM_007294.3	c.81-49A>C	Likely Neutral	
+BRCA1	NM_007294.3	c.81-18C>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.81-14C>T	Neutral	
+BRCA1	NM_007294.3	c.81-13C>A	Likely Neutral	
+BRCA1	NM_007294.3	c.81-13C>G	Neutral	
+BRCA1	NM_007294.3	c.81-12dup	Likely Neutral	preidction
+BRCA1	NM_007294.3	c.81-12C>G	Likely Neutral	
+BRCA1	NM_007294.3	c.81-12delC	Likely Neutral	1S; demande cis ou trans a Montpellier le 25/9/15
+BRCA1	NM_007294.3	c.81-11delT	Likely Neutral	"a envoyer au gpe épissage voir le labo"
+BRCA1	NM_007294.3	c.81-6T>C	Likely Neutral	1S
+BRCA1	NM_007294.3	c.113A>C	UV	attente famille supplémentaire pour être classé
+BRCA1	NM_007294.3	c.114G>A	Neutral	"manque co-occurrence Mais frequence"
+BRCA1	NM_007294.3	c.115T>C	Causal	
+BRCA1	NM_007294.3	c.117T>G	Causal	
+BRCA1	NM_007294.3	c.121C>T	Causal	Score COVAR
+BRCA1	NM_007294.3	c.130T>A	Causal	
+BRCA1	NM_007294.3	c.131G>A	Causal	
+BRCA1	NM_007294.3	c.131G>T	Causal	
+BRCA1	NM_007294.3	c.133A>C	Likely Neutral	score Lindor>1000
+BRCA1	NM_007294.3	c.134+3A>C	Causal	3S
+BRCA1	NM_007294.3	c.134+27C>T	Likely neutral	Bioinfo neg+logiciel CAen
+BRCA1	NM_007294.3	c.134+111C>T	Neutral	Info IGR sur famille 05-069091, cas index porteuse de del et UV et la fille n'a que la del
+BRCA1	NM_007294.3	c.135-174T>C	Likely neutral	Bioinf neg/logiciel Caen
+BRCA1	NM_007294.3	c.135-80del	Likely Neutral	pas d'info, prediction bioinfo neg
+BRCA1	NM_007294.3	c.135-23C>T	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.135-18T>G	UV	COVAR
+BRCA1	NM_007294.3	c.139T>A	Causal	
+BRCA1	NM_007294.3	c.140G>A	Causal	
+BRCA1	NM_007294.3	c.140G>T	Causal	
+BRCA1	NM_007294.3	c.181T>G	Causal	
+BRCA1	NM_007294.3	c.190T>C	Causal	
+BRCA1	NM_007294.3	c.191G>A	Causal	
+BRCA1	NM_007294.3	c.192T>G	Causal	
+BRCA1	NM_007294.3	c.199G>T	Neutral	score easton>1000 + epissage 1S
+BRCA1	NM_007294.3	c.212G>A	Causal	3S
+BRCA1	NM_007294.3	c.212+17T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.213-161A>G	Neutral	fréquence 1000genome
+BRCA1	NM_007294.3	c.213-17A>C	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.213-12A>G	Causal	test a marseille et caen
+BRCA1	NM_007294.3	c.231G>A	Likely Neutral	1S silencieux
+BRCA1	NM_007294.3	c.255G>A	Likely Neutral	1S silencieux
+BRCA1	NM_007294.3	c.301+1G>C	UV	del de 3aa en phase
+BRCA1	NM_007294.3	c.301+7G>A	Likely Neutral	Easton >1000, mais Co-Occurrence+Cosegregation>-3
+BRCA1	NM_007294.3	c.301+8T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.301+55G>A	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.302-24_302-22del	Likely Neutral	splice neg dans litterature
+BRCA1	NM_007294.3	c.302-41T>C	Neutral	frequence+hmz
+BRCA1	NM_007294.3	c.302-14_309del	Causal	
+BRCA1	NM_007294.3	c.312C>A	UV	
+BRCA1	NM_007294.3	c.314A>G	Neutral	(easton+cooc dans judkins)
+BRCA1	NM_007294.3	c.396C>A	Likely Neutral	
+BRCA1	NM_007294.3	c.425C>A	Neutral	
+BRCA1	NM_007294.3	c.441+6delA	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.441+17T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.441+18C>T	Likely Neutral	
+BRCA1	NM_007294.3	c.441+18del3	Neutral	"epissage 1S retour marine) IVS7+36delCTT"
+BRCA1	NM_007294.3	c.441+30_441+46del17	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.441+30_441+49del	Likely neutral	bioinfo neg
+BRCA1	NM_007294.3	c.441+33del	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.441+33_441+49del17	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.441+33_441+38del	Neutral	strech, non lisible
+BRCA1	NM_007294.3	c.441+36delCTT	Neutral	2 mut del en co-occurrence
+BRCA1	NM_007294.3	c.441+36del14	Neutral	2 co-occurences différentes dans UMD
+BRCA1	NM_007294.3	c.441+36_441+38dup	Neutral	strech, non lisible
+BRCA1	NM_007294.3	c.441+38T>C	Neutral	modelisation neg, strech de l'intron 7
+BRCA1	NM_007294.3	c.441+41C>T	Neutral	strech, non lisible
+BRCA1	NM_007294.3	c.441+49del16	Likely Neutral	patch de l'intron 7
+BRCA1	NM_007294.3	c.441+51delT	Neutral	2 co-occurences différentes dans UMD
+BRCA1	NM_007294.3	c.441+52del12	Neutral	Homozygote
+BRCA1	NM_007294.3	c.441+64delT	Neutral	plusieurs co-occurences avec mut del
+BRCA1	NM_007294.3	c.441+255C>G	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.441+294G>A	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.442-101G>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.442-46A>C	UV	ARN a faire, voir avec sophie pour françoise
+BRCA1	NM_007294.3	c.442-34C>T	Neutral	fréquence ESP
+BRCA1	NM_007294.3	c.442-25G>A	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.442-21G>A	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.446A>C	UV	PAS D INFO,
+BRCA1	NM_007294.3	c.536A>G	Neutral	priorité basse en attente résultats splice 
+BRCA1	NM_007294.3	c.547+42G>A	Likely Neutral	BIO INFO
+BRCA1	NM_007294.3	c.547+64G>C	Likely Neutral	epissage modelisation RAS
+BRCA1	NM_007294.3	c.548-37C>A	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.548-34T>C	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.548-18T>G	UV	Etude ARN
+BRCA1	NM_007294.3	c.548-17G>T	Neutral	"(easton+splice normal) epissage = 1S"
+BRCA1	NM_007294.3	c.548-58delT	Neutral	bioinfo négative, 1 mut del en co-occurrence, fréquence
+BRCA1	NM_007294.3	c.548-80T>C	Neutral	bioinfo négative, 2 mut del en co-occurrence
+BRCA1	NM_007294.3	c.552T>C	Likely Neutral	1S
+BRCA1	NM_007294.3	c.557C>A	Neutral	" (Easton+cooc UMD) epissage = 1S"
+BRCA1	NM_007294.3	c.564A>G	UV	pas d'infos, testé l'ARN?
+BRCA1	NM_007294.3	c.570C>T	UV	voir avec Alexandra pour epissage en minigene
+BRCA1	NM_007294.3	c.571G>A	Neutral	
+BRCA1	NM_007294.3	c.588T>C	Likely Neutral	1S
+BRCA1	NM_007294.3	c.591C>T	Neutral	
+BRCA1	NM_007294.3	c.593+3G>A	Likely Neutral	1S
+BRCA1	NM_007294.3	c.593+77T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.593+167C>T	Neutral	fréquence >>>1%
+BRCA1	NM_007294.3	c.594-2A>C	Neutral	associé BRCA1 c.641A>G, warning; papier avec ENIGMA, déclassé sur cette base
+BRCA1	NM_007294.3	c.594-15G>C	Likely Neutral	
+BRCA1	NM_007294.3	c.594-34T>C	Neutral	epissage 1S
+BRCA1	NM_007294.3	c.594-49C>T	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.594-67G>T	UV	LIMITE
+BRCA1	NM_007294.3	c.612G>C	UV	pas d'infos, voir co-occu si existe/peu d'infos, rechercher frequence et co-occurence en France
+BRCA1	NM_007294.3	c.641A>G	Neutral	Classé sur l'article de laa Hoya 2016
+BRCA1	NM_007294.3	c.670+8C>T	Likely neutral	 voir avec le gpe epissage: 2 car minigène (renforce inclusion) et ARN sans effet
+BRCA1	NM_007294.3	c.670+16G>A	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.670+29G>T	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.671-178G>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.671-105T>C	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.671-12G>A	Likely Neutral	en trans d'une mut del 01-61586A001
+BRCA1	NM_007294.3	c.671-8A>G	Neutral	co-occ 2 mut del dans UMD et 1 dans Judkins
+BRCA1	NM_007294.3	c.671-1G>T	Causal	+1? voir la coseg
+BRCA1	NM_007294.3	c.693G>A	Neutral	Score COVAR
+BRCA1	NM_007294.3	c.734A>T	UV	pas d'infos
+BRCA1	NM_007294.3	c.736T>G	Neutral	
+BRCA1	NM_007294.3	c.791G>T	UV	une seule famille importante mais avec peu de cancer
+BRCA1	NM_007294.3	c.795T>C	UV	silencieux et bioinfo neg mais exon 11
+BRCA1	NM_007294.3	c.811G>T	UV	pas d'infos et une seule famille
+BRCA1	NM_007294.3	c.823G>A	Neutral	homozygote et fréquence
+BRCA1	NM_007294.3	c.946A>G	UV	Famille avec del de l'IGR mais que le CI dispo.
+BRCA1	NM_007294.3	c.964G>A	UV	PAS D INFO
+BRCA1	NM_007294.3	c.981A>G	Likely Neutral	priorité basse 
+BRCA1	NM_007294.3	c.1001C>T	Neutral	easton >1000
+BRCA1	NM_007294.3	c.1063A>G	UV	PAS D INFO
+BRCA1	NM_007294.3	c.1065G>A	Neutral	Score COVAR, mail le 29/1/18 pour savoir si en cis ou trans a Montpellier
+BRCA1	NM_007294.3	c.1067A>G	Neutral	 (cooc UMD+score tavtigian)
+BRCA1	NM_007294.3	c.1134C>A	UV	pas d'infos
+BRCA1	NM_007294.3	c.1137T>G	Neutral	cooc UMD  +2 del diff dans judkins 2005
+BRCA1	NM_007294.3	c.1250A>G	UV	pas d'info
+BRCA1	NM_007294.3	c.1251T>G	UV	
+BRCA1	NM_007294.3	c.1258G>T	UV	pas COVAR, pas prioritaire
+BRCA1	NM_007294.3	c.1390A>G	UV	
+BRCA1	NM_007294.3	c.1418A>G	Likely Neutral	score Easton>1000
+BRCA1	NM_007294.3	c.1427A>G	Neutral	NOUVELLE CLASSIFICATION SUR FREQUENCE
+BRCA1	NM_007294.3	c.1456T>C	Neutral	
+BRCA1	NM_007294.3	c.1486C>T	Neutral	
+BRCA1	NM_007294.3	c.1487G>A	Neutral	cooc umd + score
+BRCA1	NM_007294.3	c.1511G>A	Neutral	(Easton + tavtigian)
+BRCA1	NM_007294.3	c.1534C>T	Likely Neutral	Associe a une mutation del BRCA1 en trans dans une famille de Curie/info Claude
+BRCA1	NM_007294.3	c.1617G>A	UV	PAS D INFO
+BRCA1	NM_007294.3	c.1648A>C	Neutral	"classe 1 IPC spurdle +cooc judkins: : déséquilibre de liaison avec autres SNP (ethno géographique?) donc classe 1"
+BRCA1	NM_007294.3	c.1745C>T 	UV	pas d'infos
+BRCA1	NM_007294.3	c.1781T>C	UV	PAS D INFO
+BRCA1	NM_007294.3	c.1789G>A	Likely Neutral	Score Easton>1000
+BRCA1	NM_007294.3	c.1844C>T	Neutral	Score COVAR
+BRCA1	NM_007294.3	c.1846_1848del 	Neutral	en trans dans Judkins, 2005, Voir avec ENIGMA
+BRCA1	NM_007294.3	c.1865C>T	Likely Neutral	
+BRCA1	NM_007294.3	c.1866G>A	Likely Neutral	pas suffisament d'élément pour neutral
+BRCA1	NM_007294.3	c.1878A>G	UV	aucune info
+BRCA1	NM_007294.3	c.1883G>T	UV	aucune info
+BRCA1	NM_007294.3	c.1911T>C	Likely Neutral	pas suffisament d'élément pour neutral
+BRCA1	NM_007294.3	c.1960A>C	UV	pas prioritaire
+BRCA1	NM_007294.3	c.1971A>G	Neutral	2 co-occurences différentes dans UMD
+BRCA1	NM_007294.3	c.1991G>A	UV	pas prioritaire
+BRCA1	NM_007294.3	c.2077G>A	Neutral	" (cooc UMD +score tavtigian) IGR: (co-occ + BIC + rs freq) "
+BRCA1	NM_007294.3	c.2082C>T	Neutral	"Co-occu UMD classe 1 IPC car très fréquents rs avec fréq alléliques importantes"
+BRCA1	NM_007294.3	c.2083G>T	Neutral	Score COVAR
+BRCA1	NM_007294.3	c.2109A>G	Neutral	SUR FREQUENCE NOUVELLE FORMULE
+BRCA1	NM_007294.3	c.2123C>A	UV	DEMANDER SI CO-OCC REELLE ET SI EN CIS OU  TRANS 30/3/17: mail a marine
+BRCA1	NM_007294.3	c.2123C>G	UV	revenir vers la famille likely neutral sous réserve du caractère cis ou trans de la mutation. en attente de la famille: 07-A141
+BRCA1	NM_007294.3	c.2155A>G	UV	pas d'infos
+BRCA1	NM_007294.3	c.2167A>G	Neutral	
+BRCA1	NM_007294.3	c.2183G>A	UV	pas prioritaire
+BRCA1	NM_007294.3	c.2222C>G	UV	voir flossies et les familles françaises si afro-americaine??
+BRCA1	NM_007294.3	c.2232T>C	Likely Neutral	frequence
+BRCA1	NM_007294.3	c.2232T>G	UV	
+BRCA1	NM_007294.3	c.2236G>A	UV	Pas d'infos
+BRCA1	NM_007294.3	c.2311T>C	Neutral	
+BRCA1	NM_007294.3	c.2312T>C	UV	PAS D INFO
+BRCA1	NM_007294.3	c.2315T>C	Neutral	score Lindor + 2 cooc de Judkins
+BRCA1	NM_007294.3	c.2352G>A	Likely Neutral	pas suffisament d'élément pour neutral
+BRCA1	NM_007294.3	c.2412G>C	Neutral	Score dans chenevix>1000
+BRCA1	NM_007294.3	c.2428A>T	Neutral	
+BRCA1	NM_007294.3	c.2458A>G	Neutral	(cooc UMD  + score tavtigian)
+BRCA1	NM_007294.3	c.2477C>A	Neutral	priorité basse, likely neutral par COVAR  
+BRCA1	NM_007294.3	c.2521C>T	Neutral	
+BRCA1	NM_007294.3	c.2522G>A	Likely Neutral	
+BRCA1	NM_007294.3	c.2525A>G	Neutral	score easton >1000 + lindor 2011
+BRCA1	NM_007294.3	c.2566T>C	Neutral	Score dans tavtigian>1000
+BRCA1	NM_007294.3	c.2584A>G	Likely Neutral	manque co-occurrence 
+BRCA1	NM_007294.3	c.2596C>T	Neutral	
+BRCA1	NM_007294.3	c.2612C>T	Neutral	
+BRCA1	NM_007294.3	c.2634A>G	UV	Arbres pour voir si neutral, faire le bilan sur  les silencieux de l'exon 11
+BRCA1	NM_007294.3	c.2662C>T	Neutral	Score COVAR
+BRCA1	NM_007294.3	c.2669G>T	Likely Neutral	Score easton
+BRCA1	NM_007294.3	c.2726A>T	Likely neutral	frequence
+BRCA1	NM_007294.3	c.2733A>G	Neutral	2 co-occurences différentes dans UMD (une non encore déclarée par l'IGR)
+BRCA1	NM_007294.3	c.2773A>C	Neutral	Score Easton >1000 et Lindor
+BRCA1	NM_007294.3	c.2814A>G	Likely neutral	frequence
+BRCA1	NM_007294.3	c.2818G>T	UV	Pas prioritaire
+BRCA1	NM_007294.3	c.2862A>G	Likely Neutral	transcrit normal
+BRCA1	NM_007294.3	c.2883C>T	UV	DEMANDER SI EN CIS OU TRANS 
+BRCA1	NM_007294.3	c.2935C>T	Likely Neutral	Score COVAR
+BRCA1	NM_007294.3	c.3022A>G	Neutral	
+BRCA1	NM_007294.3	c.3024G>A	Neutral	
+BRCA1	NM_007294.3	c.3024G>T	Likely Neutral	score goldgar
+BRCA1	NM_007294.3	c.3083G>A	Likely Neutral	Easton
+BRCA1	NM_007294.3	c.3113A>G	Neutral	
+BRCA1	NM_007294.3	c.3119G>A	Neutral	
+BRCA1	NM_007294.3	c.3130A>G	Neutral	score easton>1000, mais pas <-3 + score lindor
+BRCA1	NM_007294.3	c.3295C>T	UV	PAS D INFO
+BRCA1	NM_007294.3	c.3296C>T	Neutral	
+BRCA1	NM_007294.3	c.3302G>A	Neutral	
+BRCA1	NM_007294.3	c.3340G>A	Likely Neutral	Nantes: Leur état homozygote a été vérifié sur plusieurs techniques, avec des amorces différentes, et il n'y a pas de grand réarrangement de BRCA1.SIGNE DE FANCONI
+BRCA1	NM_007294.3	c.3418A>G	Neutral	" 2 co-occ dans UMD (cooc UMD+score tavtigian)"
+BRCA1	NM_007294.3	c.3418_3420del	Neutral	co-occ Judkins
+BRCA1	NM_007294.3	c.3424G>C	UV	Pas assez de données actuellement
+BRCA1	NM_007294.3	c.3463G>C	Likely Neutral	(cooc UMD+score tavtigian)
+BRCA1	NM_007294.3	c.3541G>A	UV	demander aux autres labos si trouvé et non déclaré
+BRCA1	NM_007294.3	c.3548A>G	Neutral	score tavtigian
+BRCA1	NM_007294.3	c.3549A>G	UV	pas d'infos
+BRCA1	NM_007294.3	c.3600G>C	Neutral	
+BRCA1	NM_007294.3	c.3600G>T	Neutral	En trans dasn Judkins et famille de 01
+BRCA1	NM_007294.3	c.3601G>A	UV	statut cis/trans ?, demande faite a Montpellier le 2/10/14
+BRCA1	NM_007294.3	c.3608G>A	Likely Neutral	score easton>1000, mais pas <-3
+BRCA1	NM_007294.3	c.3636A>G	Likely Neutral	
+BRCA1	NM_007294.3	c.3640G>A	Neutral	score easton>1000
+BRCA1	NM_007294.3	c.3691T>C	Neutral	info Marine du 22/10/13 sur famille 02-; variant en trand d'une del
+BRCA1	NM_007294.3	c.3708T>G	Neutral	Score COVAR+Co-occurence avec une mutation deletere (délétion des exons a 13) de BRCA1 dans une famille de La Pitié. Deletion de l'exon 11 sur lequel se trouve le variant c.3708T>G
+BRCA1	NM_007294.3	c.3713C>T	Neutral	score easton>1000
+BRCA1	NM_007294.3	c.3717T>A	UV	PAS D4INFO? FREQUENCE PAS SUFFISANTE
+BRCA1	NM_007294.3	c.3739G>A	Neutral	score easton >1000 et lindor
+BRCA1	NM_007294.3	c.3748G>A	Neutral	score tavtigian +cooc judkins
+BRCA1	NM_007294.3	c.3797G>C	Likely Neutral	Score easton
+BRCA1	NM_007294.3	c.3800T>C	UV	
+BRCA1	NM_007294.3	c.3804T>C	UV	arbres pour neutralité
+BRCA1	NM_007294.3	c.3823A>G	Neutral	score easton>1000
+BRCA1	NM_007294.3	c.3903T>A	UV	
+BRCA1	NM_007294.3	c.4036G>A	UV	peu d'infos
+BRCA1	NM_007294.3	c.4036_4038del	UV	PAs d'info
+BRCA1	NM_007294.3	c.4039A>G	Neutral	score tavtigian + cooc UMD
+BRCA1	NM_007294.3	c.4046C>T	Likely Neutral	
+BRCA1	NM_007294.3	c.4054G>A	UV	pas assez d'infos
+BRCA1	NM_007294.3	c.4096+3A>G	Likely Neutral	Article avec homozygote
+BRCA1	NM_007294.3	c.4097-20 C>T	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4097-29C>T	Likely Neutral	
+BRCA1	NM_007294.3	c.4097-141A>C	Neutral	frequence
+BRCA1	NM_007294.3	c.4110T>C	UV	pas d'infos
+BRCA1	NM_007294.3	c.4113G>A	Likely Neutral	sur l'ARN, info Virginie
+BRCA1	NM_007294.3	c.4185G>A	Causal	splice
+BRCA1	NM_007294.3	c.4185+3A>T	Causal	splice, saut de l'exon 12 hors phase
+BRCA1	NM_007294.3	c.4185+9C>T		
+BRCA1	NM_007294.3	c.4185+10G>A	UV	RNA? 
+BRCA1	NM_007294.3	c.4185+14G>C	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4185+21T>C	Likely Neutral	
+BRCA1	NM_007294.3	c.4185+21delTG	Neutral	frequence
+BRCA1	NM_007294.3	c.4185+22insTG/c.4185+21_4185+22dup	Likely Neutral	
+BRCA1	NM_007294.3	c.4185+26A>G	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.4185+34G>A	UV	RNA a tester?
+BRCA1	NM_007294.3	c.4185+38G>C	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4186-118G>C	Likely neutral	Bioinfo eng/Logiciel Caen
+BRCA1	NM_007294.3	c.4186-19C>T	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.4186-10G>A	UV	RNA?
+BRCA1	NM_007294.3	c.4186-1G>A	UV	COVAR
+BRCA1	NM_007294.3	c.4255G>C	Likely Neutral	
+BRCA1	NM_007294.3	c.4308T>C	Neutral	cooc UMD+fréquence
+BRCA1	NM_007294.3	c.4327C>G	UV	pas covar, pas d'info
+BRCA1	NM_007294.3	c.4357+59C>A	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.4358-97T>C	Likely neutral	1S Lyon
+BRCA1	NM_007294.3	c.4358-48A>G	Likely Neutral	
+BRCA1	NM_007294.3	c.4358-37G>A	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4358-28T>C	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.4358-21G>T	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.4358-10C>T	Neutral	cooc UMD + judkins + ARN normal
+BRCA1	NM_007294.3	c.4393A>C	Likely Neutral	", associéa la dup exon 3-8 a confirmer et a vérifier B1: c.IVS2-14C>T (c.81-14C>T)*1 c.81_548dup (p.Gly183ValfsX4)*9/13 c.IVS7+36delCTT (c.441+36delCTT)*1 c.5158A>G (p.Thr1720Ala)*1 c.IVS20+60insGTATTCCACTCC*1"
+BRCA1	NM_007294.3	c.4402A>C	Likely Neutral	score lindor
+BRCA1	NM_007294.3	c.4417T>C	Likely Neutral      UV	voir si dans la co-occurrence, est ce 2 fois la même mutation del? Famille Montpellier-Paris, variant en cis de la mutation 15/10/13
+BRCA1	NM_007294.3	c.4483A>G	Causal	3S
+BRCA1	NM_007294.3	c.4484+14A>G	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.4484+18A>G	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4484+37A>T	Likely Neutral	BIOINFO NEG
+BRCA1	NM_007294.3	c.4484+39A>G	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.4484+181delTA	Neutral	
+BRCA1	NM_007294.3	c.4485-133G>A	Likely neutral	Bioinfo neg/Logiciel CAen
+BRCA1	NM_007294.3	c.4485-84A>G	Likely neutral	bioinfo neg
+BRCA1	NM_007294.3	c.4485-29T>C	UV	en attente retour splice sophie
+BRCA1	NM_007294.3	c.4535G>T	Neutral	
+BRCA1	NM_007294.3	c.4600G>A	Neutral	easton+cooc UMD
+BRCA1	NM_007294.3	c.4636G>A	Neutral	score tavtigian>1000
+BRCA1	NM_007294.3	c.4636G>T	Neutral	easton+judkins
+BRCA1	NM_007294.3	c.4644G>A	Neutral	2 mut del en co-occurrence
+BRCA1	NM_007294.3	c.4653T>C	Likely Neutral	1S
+BRCA1	NM_007294.3	c.4672C>G	Causal	Epissage
+BRCA1	NM_007294.3	c.4675G>A	Causal	Classement selon épissage de Wappenschmidt 2012 COVAR, voir avec Bordeaux si epissage fait (ok le 15/2/18)
+BRCA1	NM_007294.3	c.4675G>C	Causal	données épissage/Sophie 19/1/18
+BRCA1	NM_007294.3	c.4675+1G>A	Causal	splice
+BRCA1	NM_007294.3	c.4675+81T>C	Likely Neutral	prediction bioinfo
+BRCA1	NM_007294.3	c.4675+105G>A	Neutral	frequence+2hmz
+BRCA1	NM_007294.3	c.4675+179delTA	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.4675+200T>C	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA1	NM_007294.3	c.4675+245G>A	Neutral	frequence +bioinfo neg
+BRCA1	NM_007294.3	c.4676-102C>G	Likely neutral	Bioinfo neg/Logiciel CAen
+BRCA1	NM_007294.3	c.4676-87T>C	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4676-26A>C	Likely neutral	Bioinfo neg/ logiciel Caen
+BRCA1	NM_007294.3	c.4676-1G>A	Causal	décision gpe splice 22/1/19
+BRCA1	NM_007294.3	c.4682C>T	Neutral	cooc UMD + cooc Judkins
+BRCA1	NM_007294.3	c.4691T>C	Neutral	score tavtigian +2 cooc judkins
+BRCA1	NM_007294.3	c.4699G>A	UV	PAs d'infos
+BRCA1	NM_007294.3	c.4766G>A	UV	
+BRCA1	NM_007294.3	c.4812A>G	Likely Neutral	priorité basse 
+BRCA1	NM_007294.3	c.4813T>C	UV	aller voir si mutation del en trans
+BRCA1	NM_007294.3	c.4837A>G	Neutral	 Co-occurence avec 2 del différentes dans UMD
+BRCA1	NM_007294.3	c.4840C>T	Neutral	score easton+ cooc judkins + test fonctionnel carvalho
+BRCA1	NM_007294.3	c.4868C>G	Causal	epissage 119bp deletion of Exon 16
+BRCA1	NM_007294.3	c.4882A>G	Likely Neutral	arbre de Caen 12-DK26 avec variant en trans de la mut del
+BRCA1	NM_007294.3	c.4883T>C	Neutral	score tavtigian + 3 cooc judkins + biblio fonctionnelle
+BRCA1	NM_007294.3	c.4930_4931delinsTT 	UV	ARN?
+BRCA1	NM_007294.3	c.4955T>C	Likely Neutral	score easton >1000
+BRCA1	NM_007294.3	c.4956G>A	Neutral	
+BRCA1	NM_007294.3	c.4986+33T>G	Likely neutral	Bioinfo neg/Logiciel Caen: NTR
+BRCA1	NM_007294.3	c.4986+137C>T	Likely neutral	Bionfo neg/Logiciel CAen: NTR
+BRCA1	NM_007294.3	c.4987-92A>T	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.4987-20A>G	Neutral	score Easton >1000 et Co-Occurrence+Cosegregation>-3
+BRCA1	NM_007294.3	c.4987-6T>C	Causal	3S, demande a Virginie M si effet complet ou non--> confirmé en avril 2018
+BRCA1	NM_007294.3	c.4992C>T	Likely Neutral	frequence
+BRCA1	NM_007294.3	c.4994T>A	Causal	Score COVAR/Posterior Probability of Pathogenicity =0,9991
+BRCA1	NM_007294.3	c.5050A>C	UV	PAS D INFO
+BRCA1	NM_007294.3	c.5062G>T	Causal	projet INCa variants
+BRCA1	NM_007294.3	c.5062_5064delGTT	Causal	score ds Malacrida
+BRCA1	NM_007294.3	c.5071A>C	UV 	
+BRCA1	NM_007294.3	c.5071A>G	UV 	
+BRCA1	NM_007294.3	c.5072C>A	UV 	
+BRCA1	NM_007294.3	c.5072C>G	UV 	
+BRCA1	NM_007294.3	c.5072C>T	Causal	splice complet
+BRCA1	NM_007294.3	c.5074+1G>T	Causal	'+1, Classe 5 par les données in silico et en plus par les tests sur ARN et minigène, sachant dl'insertion de 153 pb entraine un stop 15 aa après.
+BRCA1	NM_007294.3	c.5074+5A>T	Likely Neutral	1S
+BRCA1	NM_007294.3	c.5074+6C>G	Likely Neutral	1S
+BRCA1	NM_007294.3	c.5074+41A>C	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5074+65G>A	Neutral	fréquence 1000genome
+BRCA1	NM_007294.3	c.5074+92T>C	Likely Neutral	
+BRCA1	NM_007294.3	c.5074+107C>T	Likely Neutral	info recueil épissage, étude ARN nég
+BRCA1	NM_007294.3	c.5074+108G>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5074+205G>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.5074+228C>T	Neutral	fréquence
+BRCA1	NM_007294.3	c.5074+265G>A	Neutral	fréquence
+BRCA1	NM_007294.3	c.5074+284C>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.5074+287G>A	Likely neutral	frequence
+BRCA1	NM_007294.3	c.5074+334C>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.5074+634G>A	Likely neutral	frequence
+BRCA1	NM_007294.3	c.5075-107A>G	Likely Neutral	Bio info neg // co-occurence a verifier
+BRCA1	NM_007294.3	c.5075-84A>G	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5075-74C>T	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5075-53C>T	Neutral	
+BRCA1	NM_007294.3	c.5075-9A>T	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5096G>A	UV	attente résultats étude A. Spurdle= effet intermédiaire, sur l'article
+BRCA1	NM_007294.3	c.5116G>A 	Causal	score COVAR
+BRCA1	NM_007294.3	c.5117G>A	Likely causal 	score COVAR
+BRCA1	NM_007294.3	c.5117G>C	Neutral	score COVAR
+BRCA1	NM_007294.3	c.5144G>A	Causal	score COVAR
+BRCA1	NM_007294.3	c.5152+8T>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5152+19C>T	Likely Neutral	pas de predictions bioinfo
+BRCA1	NM_007294.3	c.5152+20T>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5152+44G>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5152+66G>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.5152+85delT	Neutral	cooc UMD  
+BRCA1	NM_007294.3	c.5152+94T>G	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5153-76C>T	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5153-39T>G	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5153-34T>G	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5153-27_5153-23del	Causal	GGC epissage
+BRCA1	NM_007294.3	c.5153-26A>G	Likely causal 	-3S, GGC splice du 10/9/14, attente du minigene et confirmation sur l'ARNm relance le 28.09,15 -2S?? -déclassé en UV
+BRCA1	NM_007294.3	c.5153-26A>T	Likely causal	decision épissage du 5/10/18
+BRCA1	NM_007294.3	c.5153-13A>G	Neutral	1S+score Easton
+BRCA1	NM_007294.3	c.5153-6C>A	Neutral	score easton>1000
+BRCA1	NM_007294.3	c.5158A>G	Neutral	cooc UMD + score easton
+BRCA1	NM_007294.3	c.5175A>G	Likely Neutral	
+BRCA1	NM_007294.3	c.5193+35T>C	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5193+49T>C	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5193+58A>G	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5193+64T>G	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5193+101T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5193+123delG	Likely Neutral	sur info splice
+BRCA1	NM_007294.3	c.5194-221T>C	Neutral	Frequence
+BRCA1	NM_007294.3	c.5194-33_5194-32del	Likely neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5194-31A>T	Likely Neutral	ARN RAS a Lyon
+BRCA1	NM_007294.3	c.5207T>C	UV	Score d'easton 2007, mais article de Domchek 2013
+BRCA1	NM_007294.3	c.5216A>T	Causal	score COVAR
+BRCA1	NM_007294.3	c.5251C>A	Likely Neutral	1S
+BRCA1	NM_007294.3	c.5252G>A	Likely Neutral	
+BRCA1	NM_007294.3	c.5277+38C>G	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5277+60insGTATTCCACTCC	Neutral	
+BRCA1	NM_007294.3	c.5277+78G>A	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5278-14C>G	Likely Neutral	PAS D IMPACT
+BRCA1	NM_007294.3	c.5278-2delA	Causal	-2
+BRCA1	NM_007294.3	c.5291T>C	Causal	Classement du IARC
+BRCA1	NM_007294.3	c.5309G>T	Causal	Score COVAR
+BRCA1	NM_007294.3	c.5309_5310delinsTT	Causal	Score COVAR
+BRCA1	NM_007294.3	c.5324T>G	Causal	
+BRCA1	NM_007294.3	c.5325G>T	UV	pas d'info
+BRCA1	NM_007294.3	c.5332G>A	Causal	3S
+BRCA1	NM_007294.3	c.5332+4A>G	Causal	réponse Claude 4/1/19: BRCA1 c.5332+4A>G : S97033040 (LL 1-28648). Amorces 17A / 24Bbis. PCR 09/02/2018 Saut hors phase de l'exon 21 (55pb). Différence'intensité P- et P+. Pas 'étude de déséquilibre allélique sur SNV. Je considère pathogène sur les data présentées (différence P+/P-)=LoF ; on avait dit que « que moins de 20% de transcrit pleine longueur parait un seuil acceptable pour considérer le variant en 3S »
+BRCA1	NM_007294.3	c.5332+13G>C	Likely Neutral	bioifo neg
+BRCA1	NM_007294.3	c.5332+13G>T	Neutral	2 cooc diff+ epissage normal
+BRCA1	NM_007294.3	c.5332+39C>T	Likely Neutral	
+BRCA1	NM_007294.3	c.5332+78C>T	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5332+107T>C	Likely Neutral	modelisation epissage neg
+BRCA1	NM_007294.3	c.5332+182insA	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5333-304G>A	Likely neutral	frequence
+BRCA1	NM_007294.3	c.5333-221C>A	Neutral	Frequence
+BRCA1	NM_007294.3	c.5333-153A>G	Neutral	frequence
+BRCA1	NM_007294.3	c.5333-134C>A	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5333-130T>C	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5333-8C>T	Likely Neutral	épissage négatif par la bioinfo
+BRCA1	NM_007294.3	c.5334T>C	"UV Likely neutral"	minigene: no alteration, epissage: 1S
+BRCA1	NM_007294.3	c.5348T>C	Likely Neutral	en attente des résultats iCOGS
+BRCA1	NM_007294.3	c.5406+8T>C	Neutral	Frequence++epissage normal Bonnet et gpe epissage + 1 cooc UMD Epissage 1S
+BRCA1	NM_007294.3	c.5406+25G>A	Likely Neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5406+33A>T	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5406+40A>G	Likely neutral	bioinfo neg
+BRCA1	NM_007294.3	c.5406+45C>A	Likely Neutral	1S intronique
+BRCA1	NM_007294.3	c.5406+63G>T	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5406+68T>C	Neutral	2 cooc diff dans UMD 
+BRCA1	NM_007294.3	c.5407-32C>T	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA1	NM_007294.3	c.5407-21C>G	Likely neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5407-21C>T	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA1	NM_007294.3	c.5408G>C	Causal	vérif ok sur ARN de l'IGR
+BRCA1	NM_007294.3	c.5411T>A	Neutral	co-occurence avec 2 del dans UMD
+BRCA1	NM_007294.3	c.5425_5430del	UV	COVAR
+BRCA1	NM_007294.3	c.5426T>G	Causal	Score COVAR transcrit aberrant et normal
+BRCA1	NM_007294.3	c.5434C>G	Causal	3S
+BRCA1	NM_007294.3	c.5467+21dupT	Likely neutral	Bioinfo neg: Logiciel Caen
+BRCA1	NM_007294.3	c.5467+148delT	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5467+156T>C	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA1	NM_007294.3	c.5468-36T>C	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA1	NM_007294.3	c.5468-28A>T	Likely Neutral	Bioinfo neg
+BRCA1	NM_007294.3	c.5468-17G>A	UV	gpe épissage: 3 +/- analyse ARN
+BRCA1	NM_007294.3	c.5468-10C>A	Neutral	attend résultat des Splices= 1S, co-occurence avec 2 del dans UMD
+BRCA1	NM_007294.3	c.5468-6C>G	Likely neutral	decision gpe splice, presentation Violaine, pas d'effet
+BRCA1	NM_007294.3	c.5497G>A	UV	
+BRCA1	NM_007294.3	c.5509T>C	Causal	Score COVAR
+BRCA1	NM_007294.3	c.5531T>C	Neutral	Score COVAR
+BRCA1	NM_007294.3	c.5537_5556del	Causal	
+BRCA1	NM_007294.3	c.5538G>A	Likely Neutral	1S
+BRCA1	NM_007294.3	c.5545G>A	Neutral	EN TRANS (étude familiale)
+BRCA1	NM_007294.3	c.5548del	Causal	coulet 2010
+BRCA1	NM_007294.3	c.5572A>C	Likely Neutral	score Lindor
+BRCA1	NM_007294.3	c.5576C>G	Likely Neutral	Score Easton
+BRCA1	NM_007294.3	c.*36C>G	Neutral	Fréquence
+BRCA1	NM_007294.3	c.*36C>T	UV	Pas d'infos
+BRCA1	NM_007294.3	c.*713C>T	Likely neutral	frequence
+BRCA2	NM_000059.3	c.-296C>T	Neutral	Frequence
+BRCA2	NM_000059.3	c.-52A>G	Neutral	Frequence
+BRCA2	NM_000059.3	c.-40+164G>A	Neutral	Frequence
+BRCA2	NM_000059.3	c.-39-12_-39-10del	UV	ARN??
+BRCA2	NM_000059.3	c.-39-2A>G	Causal	a transmettre au groupe épissage--> causal
+BRCA2	NM_000059.3	c.-26G>A	Neutral	
+BRCA2	NM_000059.3	c.-15A>C	Likely neutral	frequence
+BRCA2	NM_000059.3	c.-11C>T	Neutral	Fréquence
+BRCA2	NM_000059.3	c.2T>G	Causal	
+BRCA2	NM_000059.3	c.53G>A	Likely neutral	score Spurdle
+BRCA2	NM_000059.3	c.67G>A	causal/classe 5	"Mutation délétère tests effectués sur ARN et cassette"
+BRCA2	NM_000059.3	c.67+1G>C	Causal	en +1
+BRCA2	NM_000059.3	c.67+2T>A	Causal	,+2
+BRCA2	NM_000059.3	c.67+18A>C	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+24T>G	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+38G>A	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+40G>A	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+57A>C	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+57_67+58delAA	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.67+58A>C	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.67+62T>G	Neutral	(3familles Lyon qui ont une mutation deletere différente associée)
+BRCA2	NM_000059.3	c.67+63T>G	Likely neutral	Bioinfo neg: Logiciel Caen
+BRCA2	NM_000059.3	c.67+82C>G	Neutral	
+BRCA2	NM_000059.3	c.67+125A>C	Likely neutral	bio info négative
+BRCA2	NM_000059.3	c.68-17A>G	UV	gpe épissage: 3 +/- analyse ARN
+BRCA2	NM_000059.3	c.68-7delT	Neutral	1S+frequence
+BRCA2	NM_000059.3	c.68-7insT	Neutral	fréquence
+BRCA2	NM_000059.3	c.68-7insT	Likely neutral	voir la famille
+BRCA2	NM_000059.3	c.68-7delTinsAA	Likely neutral	
+BRCA2	NM_000059.3	c.68-7delTTinsAA	UV	Déclassement
+BRCA2	NM_000059.3	c.68-7T>A	Likely neutral	ENIGMA/iCOGS
+BRCA2	NM_000059.3	c.68_316del	Causal	score COVAR
+BRCA2	NM_000059.3	c.92G>C	Causal	score COVAR
+BRCA2	NM_000059.3	c.125A>G	Neutral	
+BRCA2	NM_000059.3	c.143A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.150T>C	Likely neutral	splice 1S
+BRCA2	NM_000059.3	c.167A>C	Neutral	easton>1000 
+BRCA2	NM_000059.3	c.175C>G	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.179A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.191C>T	UV	
+BRCA2	NM_000059.3	c.198A>G	Likely Neutral	épissage négatif
+BRCA2	NM_000059.3	c.213T>C	Likely neutral	
+BRCA2	NM_000059.3	c.223G>C	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.231T>G	Neutral	Frequence+co-occurence dans UMD
+BRCA2	NM_000059.3	c.316+3delA	Causal	skipping complet de l'exon 3 in frame, score COVAR
+BRCA2	NM_000059.3	c.316+5G>A	Causal	skipping complet de l'exon 3 in frame, score COVAR
+BRCA2	NM_000059.3	c.316+5G>C	Causal	Score obtenu a partir de COVAR; skipping complet de l'exon 3 in frame
+BRCA2	NM_000059.3	c.316+6T>C	UV	skipping Exon 3 partiel
+BRCA2	NM_000059.3	c.316+12A>G	Likely neutral	Bioinfo neg/  logiciel Caen
+BRCA2	NM_000059.3	c.316+13A>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.316+108A>G	Neutral	Fréquence 1000Genome
+BRCA2	NM_000059.3	c.316+183T>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.317-113A>G	Likely neutral	1S
+BRCA2	NM_000059.3	c.317-104C>T	Likely neutral	1 cooc UMD
+BRCA2	NM_000059.3	c.322A>C	Likely neutral	frequence
+BRCA2	NM_000059.3	c.324T>C	UV	voir les labos ou pas de mutation
+BRCA2	NM_000059.3	c.333T>G	UV	pas d'info
+BRCA2	NM_000059.3	c.378A>G	Likely neutral	1S
+BRCA2	NM_000059.3	c.397C>G	UV	PAs d'infos
+BRCA2	NM_000059.3	c.425+23A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.425+29T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.425+33A>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.425+36A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.425+52A>G	Likely neutral	info de l'IGR, transcrit normal a Bordeaux
+BRCA2	NM_000059.3	c.425+67A>C	Neutral	fréquence
+BRCA2	NM_000059.3	c.425+81T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.425+97G>A	UV 	COVAR, gpe épissage: 3 +/- analyse ARN: Création d'un AG,entouré de sites AG cryptiques plus forts
+BRCA2	NM_000059.3	c.426-123A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.426-93T>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.426-89T>C	Neutral	frequence 1000genome
+BRCA2	NM_000059.3	c.426-60T>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.426-49T>A	Likely neutral	prediction neg
+BRCA2	NM_000059.3	c.426-37T>A	Likely neutral	frequence+bioinfoneg
+BRCA2	NM_000059.3	c.426-29C>T	Likely neutral	prediction bioinfo
+BRCA2	NM_000059.3	c.426-22G>T	Likely neutral	info ARN, transcrit normal
+BRCA2	NM_000059.3	c.426-17G>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.426-15T>G	Causal	epissage
+BRCA2	NM_000059.3	c.441A>G	Likely neutral	epissage neg
+BRCA2	NM_000059.3	c.449A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.475+3A>G	Causal	saut de l'exon 5
+BRCA2	NM_000059.3	c.475+3A>T	Causal	argument si déclassement, étuda compléter???
+BRCA2	NM_000059.3	c.475+26T>C	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.475+45del	Likely neutral	Bioinfo neg/Logiciel CAen
+BRCA2	NM_000059.3	c.476-5C>T	UV	pas d'info, tester l'arn
+BRCA2	NM_000059.3	c.476-9dup	Likely neutral	1S
+BRCA2	NM_000059.3	c.476-24A>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.502C>A	Likely neutral	Score lindor 2011; en attente de la famille : 05-236071; famille a voir pour le classement selon la co-occurrence en trans ou cis
+BRCA2	NM_000059.3	c.516+4_516+5del	Causal	epissage, GGC epissage du 5/10/18
+BRCA2	NM_000059.3	c.516+14C>T	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.516+18T>C	Neutral	Frequence+hmz
+BRCA2	NM_000059.3	c.516+20T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.516+21A>T	Neutral	1S intronique + frequence
+BRCA2	NM_000059.3	c.516+39T>C	Likely neutral	Bioinfo neg/Logiciel Caen
+BRCA2	NM_000059.3	c.516+43G>A	Likely neutral	
+BRCA2	NM_000059.3	c.516+54T>C	Likely neutral	splice négatif
+BRCA2	NM_000059.3	c.516+62T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.516+83A>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.516+93C>T	Likely neutral	prediction bioinfo neg
+BRCA2	NM_000059.3	c.516+102T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.517-89G>A	Likely neutral	transcrit normal
+BRCA2	NM_000059.3	c.517-31A>G	UV	ARN a tester
+BRCA2	NM_000059.3	c.517-30T>C	UV	en attente retour splice sophie
+BRCA2	NM_000059.3	c.517-20A>G	UV	voir si STarsbourg  a testé l'ARN, demander avis au groupe epissage
+BRCA2	NM_000059.3	c.517-19C>T	Neutral	co-occurence+epissage 1S
+BRCA2	NM_000059.3	c.520C>T	UV	Pas assez de données
+BRCA2	NM_000059.3	c.532A>C	UV	pas d'impact epissage mais faux-sens
+BRCA2	NM_000059.3	c.566A>G	Causal	voir etude etpiisage
+BRCA2	NM_000059.3	c.573T>C	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.627C>A	Likely neutral	pas d'impact epissage et silencieux
+BRCA2	NM_000059.3	c.627C>G	Likely neutral	recueil variant, RAS
+BRCA2	NM_000059.3	c.627C>T	Likely neutral	no impact minigene
+BRCA2	NM_000059.3	c.631G>A	Causal	Données minigene, Confirmées sur Pax
+BRCA2	NM_000059.3	c.631+16G>A	Likely neutral	Bioinfo neg/ Logiciel CAen
+BRCA2	NM_000059.3	c.631+18G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.631+25C>T	Neutral	3 cooc differentes dans UMD+1S intronique
+BRCA2	NM_000059.3	c.631+43G>T	Likely neutral	pas d'infos pour la mut en trans ou cis; bio-info neg
+BRCA2	NM_000059.3	c.631+66C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.631+85T>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.631+183T>A	Neutral	frequence
+BRCA2	NM_000059.3	c.681+231A>G	Likely neutral	frequence
+BRCA2	NM_000059.3	c.632-10del	UV	ARN a tester
+BRCA2	NM_000059.3	c.632-3C>G	Causal	3S et frame shift
+BRCA2	NM_000059.3	c.632-16A>C	Likely neutral	Classement dans Vallée 2016
+BRCA2	NM_000059.3	c.682-30A>C	Neutral	Frequence
+BRCA2	NM_000059.3	c.632-69T>C	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.632-71G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.681+4A>G	Causal	3S 
+BRCA2	NM_000059.3	c.681+56C>T	Neutral	frequence
+BRCA2	NM_000059.3	c.681+97_681+98delGT	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.681+195T>G	Neutral	fréquence
+BRCA2	NM_000059.3	c.681+209C>T	Likely neutral	bioinfo nég
+BRCA2	NM_000059.3	c.682-107G>T	Likely Neutral	
+BRCA2	NM_000059.3	c.682-84G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.682-44T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.682-32A>G	Likely neutral	
+BRCA2	NM_000059.3	c.682-30A>C	Neutral	frequence
+BRCA2	NM_000059.3	c.682-4G>C	Likely neutral	info strasbourg
+BRCA2	NM_000059.3	c.735A>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.750G>A	UV	preCOVAR
+BRCA2	NM_000059.3	c.793+15T>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.793+37G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.793+46G>A	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.793+46delGTT/c.793+46_793+48del	Likely neutral	demande a Marseille pour la famille 07-A801, trans ou cis de la mut le 4/11/13
+BRCA2	NM_000059.3	c.793+51G>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.793+64delT	Likely neutral	prédiction bioinfo négative
+BRCA2	NM_000059.3	c.793+80T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.794-42G>T	UV	en attente retour splice sophie
+BRCA2	NM_000059.3	c.794-17G>A	Likely neutral	Logiciel Caen: NTR
+BRCA2	NM_000059.3	c.831T>G	Likely neutral	Score COVAR
+BRCA2	NM_000059.3	c.865A>C	Neutral	fréquence dans les études
+BRCA2	NM_000059.3	c.927A>G	UV	pas d'infos splice
+BRCA2	NM_000059.3	c.0943T>A	Likely neutral	frequence mais aussi données fonctionnelles
+BRCA2	NM_000059.3	c.956A>C	Likely neutral	score farrugia et lindor
+BRCA2	NM_000059.3	c.978C>A	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.0987G>A	Neutral	frequence+1hmz
+BRCA2	NM_000059.3	c.1021T>C	UV	COVAR
+BRCA2	NM_000059.3	c.1040A>G	Neutral	frequence
+BRCA2	NM_000059.3	c.1114C>A	Neutral	Score Lindor 2011
+BRCA2	NM_000059.3	c.1123C>T	UV	Easton <1000 donc uV
+BRCA2	NM_000059.3	c.1144A>C	UV	COVAR
+BRCA2	NM_000059.3	c.1151C>T	Neutral	1 cooc UMD + score spearman
+BRCA2	NM_000059.3	c.1235C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.1244A>G	Likely Neutral	Score COVAR
+BRCA2	NM_000059.3	c.1259A>G	UV	Peu d'infos
+BRCA2	NM_000059.3	c.1275A>G	Neutral	fréquence
+BRCA2	NM_000059.3	c.1362A>G	Neutral	frequence+1hmz
+BRCA2	NM_000059.3	c.1365A>G	Neutral	frequence
+BRCA2	NM_000059.3	c.1385A>G	Neutral	score Lindor
+BRCA2	NM_000059.3	c.1395A>C	Neutral	2 coocurences dans UMD
+BRCA2	NM_000059.3	c.1439G>T	UV	transcrit si temps dispo
+BRCA2	NM_000059.3	c.1460C>A	Likely Neutral	Score Lindor; Famille 25-265, pas assez d'infos
+BRCA2	NM_000059.3	c.1514T>C	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.1545T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.1644G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.1744A>C	Neutral	score Lindor 2011
+BRCA2	NM_000059.3	c.1765A>C	UV	attente famille supplémentaire
+BRCA2	NM_000059.3	c.1786G>C	Neutral	Hmz validé chez a patiente l'IGR + info de marseille en trans de mut del
+BRCA2	NM_000059.3	c.1788T>C	Neutral	Fréquence Esp 
+BRCA2	NM_000059.3	c.1792A>G	Likely neutral; Neutral	parents a tester pour la co-occurrence 12-CV63; 
+BRCA2	NM_000059.3	c.1798T>C	Neutral	frequence
+BRCA2	NM_000059.3	c.1804G>A	Neutral	score Easton >1000 et Co-Occurrence+Cosegregation>-3
+BRCA2	NM_000059.3	c.1816C>G	UV	Pas d'infos
+BRCA2	NM_000059.3	c.1818G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.1874T>C	UV	pa d'infos
+BRCA2	NM_000059.3	c.1889C>T	Likely neutral	
+BRCA2	NM_000059.3	c.1909+1G>A	Causal	precovar+gpe épissage (récolte des arbres avec +1, +2, -1, -2): Saut exon 10 en phase, pas de domaine fonctionnel. Voir si ARN testé 
+BRCA2	NM_000059.3	c.1909+9_1909+10del	Likely neutral	
+BRCA2	NM_000059.3	c.1909+11C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.1909+13T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.1909+17T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.1909+22dup	Neutral	fréquence + épissage
+BRCA2	NM_000059.3	c.1909+22delT	Likely neutral	prédiction bioinfo négative
+BRCA2	NM_000059.3	c.1909+71T>C	Likely neutral	
+BRCA2	NM_000059.3	c.1909+95delCTTAT	Neutral	Bioinfo neg frequence
+BRCA2	NM_000059.3	c.1910-74T>C	Neutral	frequence
+BRCA2	NM_000059.3	c.1910-51G>T	Neutral	3 cooc UMD + splice 1S
+BRCA2	NM_000059.3	c.1910-43T>C	Likely neutral	arn normal
+BRCA2	NM_000059.3	c.1938C>T	Neutral	
+BRCA2	NM_000059.3	c.1964C>G	Neutral	1 cooc UMD + score goldgar
+BRCA2	NM_000059.3	c.2122T>A	UV	
+BRCA2	NM_000059.3	c.2138A>T	Neutral	Frequence
+BRCA2	NM_000059.3	c.2145A>G	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.2229T>C	Neutral	Fré<quence 8 %
+BRCA2	NM_000059.3	c.2320A>G	UV	voir co-occurence, si mut en trans, aller vers le clinicien pour le diag.
+BRCA2	NM_000059.3	c.2350A>G	Neutral	Frequence
+BRCA2	NM_000059.3	c.2416G>C	Likely neutral	score Lindor 2011
+BRCA2	NM_000059.3	c.2484T>C	Likely neutral	ARN neg
+BRCA2	NM_000059.3	c.2538A>C	Neutral	frequence + 3 hmz ds gnomad
+BRCA2	NM_000059.3	c.2596G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.2680G>A	Likely neutral	score Easton et Lindor 2011
+BRCA2	NM_000059.3	c.2751A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.2755G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.2758C>A	UV	PAs d'infos
+BRCA2	NM_000059.3	c.2771A>T	Likely neutral	Score COVAR
+BRCA2	NM_000059.3	c.2786T>C	Neutral	BIC ( Pas de ségrégation 4/5 familles. Co-occ 4 mut del dont 2 en trans)
+BRCA2	NM_000059.3	c.2803G>A	Neutral	3 cooc umd + score spurdle
+BRCA2	NM_000059.3	c.2803G>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.2817C>T	UV	pas d'info, préCOVAR, récupérer les arbres
+BRCA2	NM_000059.3	c.2883G>A	Neutral	Pour Neutral, voir parents a tester pour la co-occurrence 03-2120 05-088081 // 14/6/12: 2 cooccurence dans UMD
+BRCA2	NM_000059.3	c.2918C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.2919G>A	Neutral	Frequence , UV-, COVAR seulement regarder les arbres
+BRCA2	NM_000059.3	c.2926T>A	Neutral	Frequence
+BRCA2	NM_000059.3	c.2926_2927delinsAT	Neutral	dans BIC, 2 del differentes associées
+BRCA2	NM_000059.3	c.2960A>T	Neutral	1 co-occurence dans UMD et 4 del diffrrentes dans BIC + score dans Lindor
+BRCA2	NM_000059.3	c.2971A>G	Neutral	Sur la fréquence dans la population
+BRCA2	NM_000059.3	c.3055C>G	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.3262C>T	Neutral	Score COVAR
+BRCA2	NM_000059.3	c.3264T>C	Neutral	Polymorphisme de la population Antillaise
+BRCA2	NM_000059.3	c.3396A>G	Neutral	fréquence dans les études
+BRCA2	NM_000059.3	c.3420T>C	Likely neutral	Fréquence
+BRCA2	NM_000059.3	c.3437A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3453C>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3462C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.3499A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3515C>T	Likely neutral	iCOGS
+BRCA2	NM_000059.3	c.3516G>A	Likely neutral	iCOGS
+BRCA2	NM_000059.3	c.3568C>T	Neutral	score Easton >1000 et Co-Occurrence+Cosegregation>-3
+BRCA2	NM_000059.3	c.3581G>A	Likely neutral	
+BRCA2	NM_000059.3	c.3682A>G	Neutral	score Easton >1000 et score Lindor 2011
+BRCA2	NM_000059.3	c.3707A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3711T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.3807T>C	Neutral	Sur la fréquence dans la population
+BRCA2	NM_000059.3	c.3814A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3839A>T	Likely Neutral	score Lindor 2011
+BRCA2	NM_000059.3	c.3869G>A	Neutral	2 co-occurrences sont décrites dans BIC, dont 1 en trans
+BRCA2	NM_000059.3	c.3910A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.3916G>A	Neutral	Score Easton et Lindor
+BRCA2	NM_000059.3	c.3962A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.4068G>A	Neutral	
+BRCA2	NM_000059.3	c.4071A>C	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.4090A>C	Neutral	"Mis en évidence 4 fois chez 4 patientes originaires de Fort de France voir famille pour trans"
+BRCA2	NM_000059.3	c.4141_4143delAAA	UV	pas assez d'infos et de familles
+BRCA2	NM_000059.3	c.4178C>T	UV	attente de familles supplémentaire
+BRCA2	NM_000059.3	c.4187A>G	Neutral	Score Easton >1000 et Co-Occurrence+Cosegregation>-3
+BRCA2	NM_000059.3	c.4241C>T	Neutral	2 co-occurences differentes dans BIC
+BRCA2	NM_000059.3	c.4258G>T	Neutral	
+BRCA2	NM_000059.3	c.4563G>A	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.4570T>G	Neutral	score lindor
+BRCA2	NM_000059.3	c.4584C>T	Neutral	
+BRCA2	NM_000059.3	c.4585G>A	Neutral	2 co-occurences differentes dans UMD + score easton
+BRCA2	NM_000059.3	c.4614T>C	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.4656T>C	UV	attente info supplémentaire
+BRCA2	NM_000059.3	c.4670C>G	Neutral	Co-occurence - COVAR si pas d'info en trans, mail Caen le 16/5/18--> en trans, info le 8/6/18
+BRCA2	NM_000059.3	c.4681C>A	Neutral	co-occurence UMD+fréquence
+BRCA2	NM_000059.3	c.4686A>G	Likely Neutral	voir avec Marine pour famille 02-10053 si cis ou trans? Demande faite le 14/5/13
+BRCA2	NM_000059.3	c.4779A>C	Neutral	Frequence
+BRCA2	NM_000059.3	c.4983T>C	UV	PAs d'infos
+BRCA2	NM_000059.3	c.5049G>A	UV	attente info supplémentaire
+BRCA2	NM_000059.3	c.5070A>C	neutral	2 cooc UMD  
+BRCA2	NM_000059.3	c.5191C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.5198C>T	Neutral	
+BRCA2	NM_000059.3	c.5199C>T	Neutral	
+BRCA2	NM_000059.3	c.5249C>T	UV	pas d'infos, pourquoi neutral l'igr
+BRCA2	NM_000059.3	c.5268A>G	Likely neutral	frequence
+BRCA2	NM_000059.3	c.5277T>C	UV	pas d'infos neg
+BRCA2	NM_000059.3	c.5312G>A	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.5319G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.5379T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.5386G>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.5396C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.5418A>G	Neutral	iCOGS
+BRCA2	NM_000059.3	c.5455C>T	Likely neutral	score Easton >1000
+BRCA2	NM_000059.3	c.5479A>G	UV	pas d'infos
+BRCA2	NM_000059.3	c.5529A>C	Neutral	frequence+1hmz
+BRCA2	NM_000059.3	c.5552T>G	Neutral	Score COVAR
+BRCA2	NM_000059.3	c.5634C>T	UV	
+BRCA2	NM_000059.3	c.5640T>G	Likely Neutral	
+BRCA2	NM_000059.3	c.5704G>A	Neutral	BIC: 6 different deleterious mutations; 4 (in trans); 
+BRCA2	NM_000059.3	c.5710C>G	Likely neutral	score lindor 2011
+BRCA2	NM_000059.3	c.5744C>T	Neutral	4 cooc differentes dans UMD
+BRCA2	NM_000059.3	c.5745G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.5768A>C	Likely neutral	"co-occurrence fréquent a voir avec les variants autres associés B2:c.IVS16-40A>G (c.7806-40A>G)*2 c.8460A>C (p.Val2820Val)*2 c.IVS24-83G>A (c.9257-83G>A)*1 c.10234A>G (p.Ile3412Val)*1"
+BRCA2	NM_000059.3	c.5785A>G	Neutral	Co-occurence dans BIC+score Easton
+BRCA2	NM_000059.3	c.5804A>G	UV	
+BRCA2	NM_000059.3	c.5813G>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.5870T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.5879G>A	Likely neutral	frequence
+BRCA2	NM_000059.3	c.5887G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.5928G>T	UV	PRECOVAR
+BRCA2	NM_000059.3	c.5937C>G	UV	quelle mutation en trans est ce?c.5706_5712delinsCATATGAAGA
+BRCA2	NM_000059.3	c.5986G>A	Neutral	
+BRCA2	NM_000059.3	c.6057C>T	Likely neutral	frequence 
+BRCA2	NM_000059.3	c.6100C>T	Neutral	cooc UMD + socre
+BRCA2	NM_000059.3	c.6220C>A	Likely neutral	Score easton>1000 
+BRCA2	NM_000059.3	c.6281A>G	UV	pas d'infos et une seule famille.
+BRCA2	NM_000059.3	c.6317T>C	UV	mail marine IGR le 2/10/14, voir avec Toulouse
+BRCA2	NM_000059.3	c.6320_6322del	UV	pas d'infos mais COVAR pour les in frame
+BRCA2	NM_000059.3	c.6322C>T	Neutral	frequence+co-occurence
+BRCA2	NM_000059.3	c.6323G>A	Neutral	
+BRCA2	NM_000059.3	c.6325G>A	Likely neutral	frequence
+BRCA2	NM_000059.3	c.6338A>G	Likely neutral	Score easton>1000 
+BRCA2	NM_000059.3	c.6347A>G	Neutral	Coocurence dans BIC et mutation en trans
+BRCA2	NM_000059.3	c.6412G>T	Neutral	co-occurence + frequence
+BRCA2	NM_000059.3	c.6455C>A	UV	
+BRCA2	NM_000059.3	c.6513C>G	Neutral	cooc UMD
+BRCA2	NM_000059.3	c.6714T>G	UV	PAs d'infos
+BRCA2	NM_000059.3	c.6748A>G	Neutral	score Easton >1000 , info complémentaire de la pitié
+BRCA2	NM_000059.3	c.6821G>T	Neutral	score GGC/biblio
+BRCA2	NM_000059.3	c.6841+22delT	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.6841+23C>T	Likely neutral	sur données IGR en cours de vérif
+BRCA2	NM_000059.3	c.6841+78_6841+83del	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.6841+80_6841+83del	Neutral	Fréquence 1000genome
+BRCA2	NM_000059.3	c.6842-19_6842-18del	UV	en attente retour splice sophie
+BRCA2	NM_000059.3	c.6842_6937del	UV	quelle est l'utilité de l'exon 12, Li 2009
+BRCA2	NM_000059.3	c.6842-214T>A	Likely neutral	Fréquence
+BRCA2	NM_000059.3	c.6842-86A>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.6842-84C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.6842-74dup	Likely neutral	 logiciel caen:NTR
+BRCA2	NM_000059.3	c.6842-73T>A	Likely Neutral	plus dans COVAR
+BRCA2	NM_000059.3	c.6842-59T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.6842-20T>A	Likely neutral	score Easton, voir la co-occurence
+BRCA2	NM_000059.3	c.6853A>G	Likely neutral	easton>1000 
+BRCA2	NM_000059.3	c.6935A>T	Neutral	Minigene en cours, voir décision splice
+BRCA2	NM_000059.3	c.6937+26T>C	Likely neutral	1S
+BRCA2	NM_000059.3	c.6937+74C>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.6937+133C>T	Likely neutral	pas de prediction bioinfo
+BRCA2	NM_000059.3	c.6937+239A>T	Likely neutral	predictio bioinfo neg
+BRCA2	NM_000059.3	c.6937+563T>G	Likely neutral	predictio bioinfo neg
+BRCA2	NM_000059.3	c.6937+565T>C	Likely neutral	predictio bioinfo neg
+BRCA2	NM_000059.3	c.6937+594T>G	Likely neutral	co-occurence, classe 2 avec le score
+BRCA2	NM_000059.3	c.6938-120T>C	Neutral	splice in silico RAS + frequence 1000Genome
+BRCA2	NM_000059.3	c.6938-91A>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.6938-46C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.6938-26T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.6938-8T>C	Likely neutral	epissage neg
+BRCA2	NM_000059.3	c.7007+157C>T	Neutral	Frequence
+BRCA2	NM_000059.3	c.7007+34A>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.7007+53G>A	Likely neutral	pas d'info, biinfo neg
+BRCA2	NM_000059.3	c.7007+62A>G	UV	gpe epissage: 3 +/- analyse ARN
+BRCA2	NM_000059.3	c.7007+66A>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7007+114G>A	Likely neutral	Bion info neg par logiciel Caen
+BRCA2	NM_000059.3	c.7007+126_7007+134dup	Neutral	frequence+HMZ
+BRCA2	NM_000059.3	c.7007+126_7007+134del	Likely neutral	regarder les familles sans mutations del
+BRCA2	NM_000059.3	c.7008-62A>G	Neutral	cooc umd
+BRCA2	NM_000059.3	c.7008-44A>G	Likely neutral	
+BRCA2	NM_000059.3	c.7008-13C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7008-3C>G	Causal	info splice Dijon
+BRCA2	NM_000059.3	c.7017G>C	Likely neutral	iCOGS
+BRCA2	NM_000059.3	c.7052C>G	UV	Score IARC: attendre comparaison Lindor/UMD
+BRCA2	NM_000059.3	c.7053A>T	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.7056T>A	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.7150C>A	Neutral	Score Easton >1000 et Co-Occurrence+Cosegregation>-3
+BRCA2	NM_000059.3	c.7157C>A	UV	
+BRCA2	NM_000059.3	c.7241C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.7242A>G	Neutral	fréquence dans les études
+BRCA2	NM_000059.3	c.7242A>T	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.7319A>G	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.7397C>T	Neutral	polymorphism de pop ethno-geographique
+BRCA2	NM_000059.3	c.7435+1G>C	Causal	+1
+BRCA2	NM_000059.3	c.7435+6G>A	Likely neutral	splice neg dans biblio+2 co-occurence dans UMD
+BRCA2	NM_000059.3	c.7435+53C>T	Neutral	fréquence
+BRCA2	NM_000059.3	c.7435+54G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7436-301C>A	Neutral	frequence
+BRCA2	NM_000059.3	c.7436-191T>A	Neutral	Frequence
+BRCA2	NM_000059.3	c.7436-131C>T	Neutral	Fréquence 1000genome
+BRCA2	NM_000059.3	c.7436-49G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7436-23G>A	Likely neutral	Logiciel Caen: NTR
+BRCA2	NM_000059.3	c.7436-4A>T	Likely neutral	infos de Bordeaux
+BRCA2	NM_000059.3	c.7436-1G>A	Causal	
+BRCA2	NM_000059.3	c.7463G>A	UV, Neutral	En trans avec la mutation del B2 ds la famille 14-547
+BRCA2	NM_000059.3	c.7469T>C	Neutral	classé sur fréquenca 2% sur population golbale de 1000genomes (ds Ensembl)
+BRCA2	NM_000059.3	c.7504C>T	Neutral	frequence
+BRCA2	NM_000059.3	c.7544C>T	Likely Neutral	del B2,score
+BRCA2	NM_000059.3	c.7596C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.7602G>C	UV	ARN ou COVAR???regarder si lignées lymphos pour étude ARN
+BRCA2	NM_000059.3	c.7617G>A	UV	mail Marine car discordance entre base et article de 2012, déclassé
+BRCA2	NM_000059.3	c.7617+14_7617+15del	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.7617+23G>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7617+39G>A	Likely neutral	frequence
+BRCA2	NM_000059.3	c.7617+68_7617+69insA	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7618-1G>A	Causal	posistion -1+score lindor 2012
+BRCA2	NM_000059.3	c.7618-2A>T	Causal	
+BRCA2	NM_000059.3	c.7618-10T>G	Causal	decision gpe splice 22/1/19
+BRCA2	NM_000059.3	c.7618-22T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7626G>A	Likely neutral	voir avec Marine pour ces familles
+BRCA2	NM_000059.3	c.7632C>T	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.7683G>A	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.7766C>A	Neutral	confirmation en cours pour l'article de Lindor
+BRCA2	NM_000059.3	c.7783G>T	UV	voir la famille
+BRCA2	NM_000059.3	c.7802A>G	UV	COVAR: Données de Joanna pas suffisant+score calculé par Francesca
+BRCA2	NM_000059.3	c.7805+6C>G	Neutral	Frequence, plus covar, epissage normal
+BRCA2	NM_000059.3	c.7805+8A>G	Likely neutral	décision gps épissage
+BRCA2	NM_000059.3	c.7805+13A>G	UV	RNA a tester?
+BRCA2	NM_000059.3	c.7805+23G>A	Likely neutral	Epissage normal.
+BRCA2	NM_000059.3	c.7806-115T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7806-81G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7806-60G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7806-50G>T	Likely neutral	cis ou trans?
+BRCA2	NM_000059.3	c.7806-40A>G	Neutral	"Polymorphism de la pop antillaise, co-occurrence fréquent voir avec les variants autres associés B2: c.8460A>C (p.Val2820Val)*10 c.IVS24-83G>A (c.9257-83G>A)*7 c.5768A>C (p.Asp1923Ala)*2 c.521G>A (p.Arg174His)*1 c.7552C>G (p.Leu2518Val)*1 c.10234A>G (p" c.7806-15delC
+BRCA2	NM_000059.3	c.7806-14T>C	Neutral	"Co-occurence mut del BRCA2 a Marseille:c.5441_5444delCTTA, p.Thr1738delfsX3 ,c.6589_6590delGA, p.Glu2121AsnfsX7 MUT: c.9453_9454insA, p.Gly3076ArgfsX35 MUT: c.5950_5951delCT, p.Leu1908>ArgfsX MUT: c.6671_6672delCT, p.Ser2148TyrfsX2 MUT: c.6174delT, p.Ser1982ArgfsX22"
+BRCA2	NM_000059.3	c.7976+12G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7976+36G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7976+57G>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7879A>T	UV	arbre pour préCOVAR
+BRCA2	NM_000059.3	c.7971A>G	Likely neutral	1S
+BRCA2	NM_000059.3	c.7976+18C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.7976+23C>T	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.7976+35C>A	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.7976+45G>C	Likely neutral	co-occurence +epissage neg
+BRCA2	NM_000059.3	c.7976+195C>G	Likely neutral	logiciel CAen: NTR
+BRCA2	NM_000059.3	c.7976+209T>A	Likely neutral	logicle Caen: NTR
+BRCA2	NM_000059.3	c.7977-189T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7977-51G>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.7977-7C>G	UV	mails aux labos pour déclassement le 2/10/14
+BRCA2	NM_000059.3	c.7994A>G	Neutral	1 co-occurence dans 1 UMD et 2 diff dans BIC dont une confirmée en trans
+BRCA2	NM_000059.3	c.8009C>T	Causal	score COVAR
+BRCA2	NM_000059.3	c.8010G>A	Neutral	projet minigene/Score COVAR
+BRCA2	NM_000059.3	c.8023A>G	Causal	données épissage, 3S
+BRCA2	NM_000059.3	c.8035G>T	Causal	C65 mais splice, info de Lyon
+BRCA2	NM_000059.3	c.8103T>G	UV	pas prioritaire
+BRCA2	NM_000059.3	c.8111C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.8149G>T	Neutral	
+BRCA2	NM_000059.3	c.8154T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.8168A>G	Causal	3S
+BRCA2	NM_000059.3	c.8177A>G	UV 	a surveiller
+BRCA2	NM_000059.3	c.8182G>A	Neutral	
+BRCA2	NM_000059.3	c.8182G>C	UV	pas d'info suffisantes
+BRCA2	NM_000059.3	c.8187G>T	Neutral	Frequence
+BRCA2	NM_000059.3	c.8238A>C	Likely neutral	voir avec Pascaline pour les résultats sur l'exon 18
+BRCA2	NM_000059.3	c.8243G>A	Causal	score de la littérature
+BRCA2	NM_000059.3	c.8308G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.8331G>A	Causal	Decision splice car données sur ARN en plus Combiné aux données du minigène on interprète comme pathogène en class'article est sérieux mais on réairme que le minigène seul ne suffit pasclasser en 5
+BRCA2	NM_000059.3	c.8331+18C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8331+22G>C	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.8331+109G>A	Likely neutral	fréquence
+BRCA2	NM_000059.3	c.8332-238T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8332-66T>C	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8332-54T>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.8360G>A	Likely neutral	article de lindor 2012
+BRCA2	NM_000059.3	c.8417C>T	Likely neutral	frequence
+BRCA2	NM_000059.3	c.8421G>A	Neutral	frequence+1hmz
+BRCA2	NM_000059.3	c.8460A>C	Neutral	polymorphism pop antillaise
+BRCA2	NM_000059.3	c.8486A>G	Causal	del exon 19 in frame mais dans un domaine fonctionnel
+BRCA2	NM_000059.3	c.8486A>T	UV	RNA?
+BRCA2	NM_000059.3	c.8487+3A>G	Causal	splice 95%
+BRCA2	NM_000059.3	c.8487+8G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8487+8G>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8487+19A>G	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.8487+20C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8487+26A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8487+47C>A	Likely neutral	frequence
+BRCA2	NM_000059.3	c.8487+47C>T	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.8487+56T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8487+66_8487+69dup	Likely neutral	splice RAS info Strasbourg
+BRCA2	NM_000059.3	c.8487+81C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8487+82G>A	Likely neutral	bioifo neg
+BRCA2	NM_000059.3	c.8487+104G>A	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.8488-121C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8488-52A>G	Neutral	Frequence
+BRCA2	NM_000059.3	c.8488-14A>G	Causal	3S (rétention des 13 dernières bases intron 19 (prédiction en accord) hors phase, effet total> 3S et classe 5)
+BRCA2	NM_000059.3	c.8488-1G>A	Causal	gpe épissage av classement: 5 avec peut-être pénétrance faible
+BRCA2	NM_000059.3	c.8503T>C	Neutral	Co-occurence avec 3 del dont 2 differentes dans BIC
+BRCA2	NM_000059.3	c.8525G>A	Likely neutral	score easton>1000
+BRCA2	NM_000059.3	c.8567A>C	Neutral	1 cooc umd + 2diff dans BIC + score 
+BRCA2	NM_000059.3	c.8572C>A	Neutral	Co-occurence avec 2 del differentes dans UMD
+BRCA2	NM_000059.3	c.8592C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.8632+2T>C	Causal	gpe épissage pour transcrit
+BRCA2	NM_000059.3	c.8632+39A>G	Likely neutral	1S
+BRCA2	NM_000059.3	c.8632+51T>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8632+132insC/dup	Neutral	frequence + prediction
+BRCA2	NM_000059.3	c.8632+135G>A	UV	a envoyer au gpe epissage: 3 avec analyse ARN
+BRCA2	NM_000059.3	c.8633-16C>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.8662C>T	Likely neutral	easton>1000 
+BRCA2	NM_000059.3	c.8686C>A	UV	décision gpe épissage
+BRCA2	NM_000059.3	c.8690C>G	UV	pas suffisamment de famille
+BRCA2	NM_000059.3	c.8690C>T	UV	pas suffisamment de famille
+BRCA2	NM_000059.3	c.8754+4A>G	Causal	3S
+BRCA2	NM_000059.3	c.8754+5G>A	Causal	Odile: je ne l'ai pas trouvé dans la base UMD, mais une analyse de transcrit a été publiée p'éuipe de P. Devillee et celle-ci montre un effet complet sur l'�pissage avec une rétention de 46 nucléotides appartenana l'intron 5 (publication en pièce jointe). +Acedo 2015
+BRCA2	NM_000059.3	c.8754+75A>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8755-182A>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8755-135A>G	Neutral	frequence
+BRCA2	NM_000059.3	c.8755-135A>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8755-79G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8755-66T>C	Neutral	fréquence dans les études
+BRCA2	NM_000059.3	c.8755-42dup	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8799G>A	Likely neutral	1S
+BRCA2	NM_000059.3	c.8830A>T	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.8850G>C	Likely neutral	epissage?
+BRCA2	NM_000059.3	c.8850G>T	Neutral	ENIGMA
+BRCA2	NM_000059.3	c.8851G>A	Neutral	Co-occurence avec 2 del differentes dans UMD
+BRCA2	NM_000059.3	c.8893G>T	Causal	3S
+BRCA2	NM_000059.3	c.8904C>T	UV	COVAR
+BRCA2	NM_000059.3	c.8905G>A	Likely neutral	easton>1000 
+BRCA2	NM_000059.3	c.8917C>T	Likely neutral	Easton >1000
+BRCA2	NM_000059.3	c.8953+1G>T	Causal	Splice, artilce Whiley 2011 avec un score
+BRCA2	NM_000059.3	c.8953+26A>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8953+49T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8953+80G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.8953+98T>C	Neutral	Co-occurence avec 2 del differentes dans UMD
+BRCA2	NM_000059.3	c.8954-35C>G	Likely neutral	
+BRCA2	NM_000059.3	c.8954-32C>T	Likely neutral	
+BRCA2	NM_000059.3	c.8954-29T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.8954-6A>G	Likely neutral	pas d'impact sur l'épissage
+BRCA2	NM_000059.3	c.8954-5A>G	Causal	transcrit clairement délétère r.9181_9182insACAG tention 4pb de 'intron), p.Val2985fs. 
+BRCA2	NM_000059.3	c.8975_9100del	Causal	voir 3D, preCOVAR pour arbre
+BRCA2	NM_000059.3	c.9038C>T	Likely neutral, Neutral	voir si les parents testés? 04-686 cooccurence UMD +BIC
+BRCA2	NM_000059.3	c.9057A>G	UV	groupe epissage: 3 avec analyse ARN
+BRCA2	NM_000059.3	c.9084_9086delAGC	Neutral	famille 12-CR12, en trans avec la del (info Caen)
+BRCA2	NM_000059.3	c.9108A>G	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.9117G>T	Causal	"info lille: saut hors phase de l'exon 23 (r.8954_9117del), exactement comme le fait le variant BRCA2c.9117G>A,"
+BRCA2	NM_000059.3	c.9118-39G>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9154C>T	Causal	scores de la littérature+ score COVAR
+BRCA2	NM_000059.3	c.9216G>A	Likely neutral	1S silencieux
+BRCA2	NM_000059.3	c.9235G>A	Likely neutral	score easton
+BRCA2	NM_000059.3	c.9242T>C	Likely neutral	en trans sur la famille de l'IGR mais prédictions protéiques mauvaises, en attentes d'une autre co-occurence
+BRCA2	NM_000059.3	c.9256+28del	Likely neutral	ppas d'impact bioinfo
+BRCA2	NM_000059.3	c.9256+58A>T	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.9256+98T>C	Likely neutral	bioinfo neg + arbre a demander pour trans
+BRCA2	NM_000059.3	c.9257-241A>T	Neutral	Fréquence
+BRCA2	NM_000059.3	c.9257-164G>C	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.9257-143T>A	Neutral	Fréquence
+BRCA2	NM_000059.3	c.9257-113T>G	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.9257-97A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9257-90T>C	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9257-83G>A	Neutral	Polymorphism de la pop antillaise
+BRCA2	NM_000059.3	c.9257-75G>C	Likely neutral	pas de prediction biofo
+BRCA2	NM_000059.3	c.9257-57C>T	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.9257-49T>C	Neutral	Frequence
+BRCA2	NM_000059.3	c.9257-48C>G	Likely neutral	Logiciel Caen: NTR
+BRCA2	NM_000059.3	c.9257-25T>C	Likely neutral	Logiciel de Caen: NTR
+BRCA2	NM_000059.3	c.9257-16T>C	Neutral	
+BRCA2	NM_000059.3	c.9605C>T	Neutral	voir les co-occurences, pour confirmation
+BRCA2	NM_000059.3	c.9728C>T	UV	pas d'infos
+BRCA2	NM_000059.3	c.9292T>C	Likely neutral	Easton>1000; 
+BRCA2	NM_000059.3	c.9364G>A	UV	voir la famille sans mutation del, pas d'info suufisante, score uniquement sur une info de co-seg dasn article
+BRCA2	NM_000059.3	c.9396A>G	Likely neutral	1S par l'IGR, ARN a tester? mail a Montpellier et IGR le 3/10/14. IGR n'a pas testé l'ARN par contre, il y a une lignée établie. relance IGR le 20/7/18
+BRCA2	NM_000059.3	c.9458G>C	Likely neutral	en trans de mut del, labo 14, signe fanconi?? 
+BRCA2	NM_000059.3	c.9501+1G>A	Causal	en +1
+BRCA2	NM_000059.3	c.9501+3A>T	Neutral	Score COVAR
+BRCA2	NM_000059.3	c.9501+4A>G	Likely neutral	sur article
+BRCA2	NM_000059.3	c.9501+9A>C	Neutral	easton>1000 + splice normal
+BRCA2	NM_000059.3	c.9501+27A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9501+151A>C	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.9502-149C>T	Neutral	Frequence
+BRCA2	NM_000059.3	c.9502-12T>C	Likely neutral	transcrit en cours entre Caen et paris, mail a Curie le 2/10/14/decision groupe epissage du 6/3/15
+BRCA2	NM_000059.3	c.9502-12T>G	Likely neutral	transcrit en cours entre Caen et paris, mail a Curie le 2/10/14, episage neg de CAen en 2015; a vérifier pas Curie
+BRCA2	NM_000059.3	c.9586A>G	UV	arbre pour preCOVAR
+BRCA2	NM_000059.3	c.9605C>T	Neutral	voir les co-occurences, pour confirmation; mail le 1/2/19--> 8/2/19: 12-CS60: le variant c.9605C>T de BRCA2 se trouve en trans par rapport a la mutation : c.8331+2T>C de BRCA2 dans la famille 12-CS60.
+BRCA2	NM_000059.3	c.9606G>C	UV	pas d'infos, score pour neutralité
+BRCA2	NM_000059.3	c.9613G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.9634G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.9634G>C 	Neutral	frequence dans la population afriquaine
+BRCA2	NM_000059.3	c.9635G>A	UV	pas d'infos
+BRCA2	NM_000059.3	c.9648+1G>A	Causal	;+1
+BRCA2	NM_000059.3	c.9648+38A>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9648+54G>A	Likely neutral	trans ou cis? bioinfo neg
+BRCA2	NM_000059.3	c.9648+84G>A	Likely Neutral	modélisation négative
+BRCA2	NM_000059.3	c.9648+106delT	Likely neutral	"1 co-occurrence UMD +splice normal co-occurrence fréquent a voir avec les variants autres associés"
+BRCA2	NM_000059.3	c.9649-243T>G	Neutral	Frequence
+BRCA2	NM_000059.3	c.9649-227C>A	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9649-103_9649-102del	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9649-95T>G	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.9649-93C>T	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9649-92G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.9649-82A>G	Likely neutral	Bioinfo neg
+BRCA2	NM_000059.3	c.9649-65delACTT	Likely neutral	1S intronique
+BRCA2	NM_000059.3	c.9649-20C>T	Neutral	Easton + 1S
+BRCA2	NM_000059.3	c.9649-19G>A	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.9649-6dup	Likely neutral	bioinfo neg
+BRCA2	NM_000059.3	c.9650T>A	UV	Transcrit a faire--> Bordeaux
+BRCA2	NM_000059.3	c.9672dup	Causal	voir article pour ClinivarMiner  pour verifier la causalité, regarder le del en même position, 
+BRCA2	NM_000059.3	c.9730G>A	Likely Neutral	Sur la fréquence
+BRCA2	NM_000059.3	c.9843A>G	Likely neutral	Frequence
+BRCA2	NM_000059.3	c.9876G>A	Likely neutral	1S
+BRCA2	NM_000059.3	c.9924C>T	Likely neutral	frequence
+BRCA2	NM_000059.3	c.9925G>T	Causal	A discuter lors de la prochaine réunion
+BRCA2	NM_000059.3	c.9976A>T	Neutral	données fonctionnelles+cooc UMD
+BRCA2	NM_000059.3	c.10045A>G	Neutral	easton>1000 
+BRCA2	NM_000059.3	c.10058delT	Neutral	GGC 2007
+BRCA2	NM_000059.3	c.10085T>C	UV	pas d'infos
+BRCA2	NM_000059.3	c.10095_10095delinsGAATTATATCT	Neutral	GGC 2007
+BRCA2	NM_000059.3	c.10107dup	Neutral	Ap stop poly 3326
+BRCA2	NM_000059.3	c.10110G>A	Neutral	3 co-occurences dans UMD
+BRCA2	NM_000059.3	c.10150C>T	Likely neutral	après k3326X
+BRCA2	NM_000059.3	c.10176delA	Neutral	GGC 2007
+BRCA2	NM_000059.3	c.10184del	UV	pas de matériel pour travailler
+BRCA2	NM_000059.3	c.10234A>G	Neutral	2 co-occurences differentes dans UMD
+BRCA2	NM_000059.3	c.10253_10256delTCTA	Neutral	GGC 2007
+BRCA2	NM_000059.3	c.*14C>T	UV	
+BRCA2	NM_000059.3	c.*105A>C	Neutral	fréquence de presque 30% chez les européens 
+BRCA2	NM_000059.3	c.*131C>T	UV	
+BRCA2	NM_000059.3	c.*135G>A	UV	
+PALB2	NM_024675.3	c.-47G>A	Neutral	
+PALB2	NM_024675.3	c.23C>T	Likely neutral	frequence
+PALB2	NM_024675.3	c.30C>T	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.48+27G>T	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.48+50C>A	Neutral	Frequence
+PALB2	NM_024675.3	c.49-10C>A	UV	ARN a tester
+PALB2	NM_024675.3	c.53A>G	Neutral	frequence+50HMZ
+PALB2	NM_024675.3	c.108+1G>A	Causal	decision splice du 22/1/19
+PALB2	NM_024675.3	c.108+36G>C	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.108+40A>G	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.109-7C>A	Likely neutral	gpe épissage: 2 car low ds SPiCE
+PALB2	NM_024675.3	c.173delT	Causal	Variant tronquant
+PALB2	NM_024675.3	c.194C>T	UV	pas assez d'infos
+PALB2	NM_024675.3	c.212-47dup	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.212-10del	UV	en attente retour splice sophie
+PALB2	NM_024675.3	c.0226del	Causal	Frameshift -> Causal
+PALB2	NM_024675.3	c.249C>T	UV	pas d'infos
+PALB2	NM_024675.3	c.344G>T	UV	précovar
+PALB2	NM_024675.3	c.349C>A	UV	
+PALB2	NM_024675.3	c.400G>A	Likely neutral	Frequence
+PALB2	NM_024675.3	c.629C>T	Neutral	frequence
+PALB2	NM_024675.3	c.656A>G	UV	PRECOVAR
+PALB2	NM_024675.3	c.0721A>G	Neutral	frequence+hmz
+PALB2	NM_024675.3	c.909C>T	Neutral	frequence
+PALB2	NM_024675.3	c.925A>G	Neutral	Frequence
+PALB2	NM_024675.3	c.1010T>C	Neutral	frequence
+PALB2	NM_024675.3	c.1194G>A	Likely neutral	Frequence
+PALB2	NM_024675.3	c.1212T>G	UV	pas d'infos, si plus de familles, rentrera dans COVAR pour la conservation
+PALB2	NM_024675.3	c.1419A>C	Neutral	Frequence
+PALB2	NM_024675.3	c.1492G>T	Likely neutral	Frequence
+PALB2	NM_024675.3	c.1516del	Causal	tronquant
+PALB2	NM_024675.3	c.1572A>G	Neutral	frequence +hmz dasn gnomad
+PALB2	NM_024675.3	c.1606C>T	Neutral	frequence+2hmz
+PALB2	NM_024675.3	c.1676A>G	Neutral	Fréquence >>1%
+PALB2	NM_024675.3	c.1684+17_1684+18insGA	Likely neutral	
+PALB2	NM_024675.3	c.1684+29A>G	Neutral	frequence
+PALB2	NM_024675.3	c.1684+39_1684+41del	Likely neutral	bioinfo neg
+PALB2	NM_024675.3	c.1684+39_1684+41dup	Neutral	frequence
+PALB2	NM_024675.3	c.1685_3561dup	Causal	différent des US qui le met en 4
+PALB2	NM_024675.3	c.1686del	Neutral	Frequence
+PALB2	NM_024675.3	c.1810C>T	Likely neutral	Frequence
+PALB2	NM_024675.3	c.1838del	Causal	troquant
+PALB2	NM_024675.3	c.1857del	Causal	Frameshift -> Causal
+PALB2	NM_024675.3	c.2014G>C	Neutral	Fréquence >>1%
+PALB2	NM_024675.3	c.2167_2168del	Causal	tronquant
+PALB2	NM_024675.3	c.2256A>G	Likely neutral	Frequence
+PALB2	NM_024675.3	c.2365C>T	Neutral	Fréquence
+PALB2	NM_024675.3	c.2514+1G>A	Causal	Site consensus d'épissage + testé saut hors phase exon 5 LCL +/- puro
+PALB2	NM_024675.3	c.2515-46A>G	Likely neutral	epissage 5/10/18: associé avec mut de a Bordeaux mais on ne sait pas si en cis ou trans, et pas d'étude d'ARN--> on laisse en 3 bioinfo nega voir pour le gpe épissae: 2
+PALB2	NM_024675.3	c.2586+41A>G	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.2587-38C>G	Neutral	Frequence
+PALB2	NM_024675.3	c.?-2587_3113+?del	Causal	
+PALB2	NM_024675.3	c.2590C>T	Neutral	Frequence
+PALB2	NM_024675.3	c.2607C>T	Likely neutral	Frequence
+PALB2	NM_024675.3	c.2670_2671del	Causal	
+PALB2	NM_024675.3	c.2742C>T	Likely neutral	frequence
+PALB2	NM_024675.3	c.2748+1G>T	Causal	decision du splice 22/1/19
+PALB2	NM_024675.3	c.2748+16G>A	Likely neutral	bioinfo neg
+PALB2	NM_024675.3	c.2749-38C>T	UV	en attente retour splice sophie
+PALB2	NM_024675.3	c.2749-18C>T	UV	en attente retour splice sophie
+PALB2	NM_024675.3	c.2794G>A	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.2834+18A>T	Likely neutral	fréquence
+PALB2	NM_024675.3	c.2834+22A>C	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.2834+31del	Likely neutral	bioinfo neg
+PALB2	NM_024675.3	c.2834+69G>A	UV	logiciel Caen
+PALB2	NM_024675.3	c.2834+101C>G	Neutral	Fréquence+1hmz
+PALB2	NM_024675.3	c.2835-27C>T	Neutral	Fréquence >>1%
+PALB2	NM_024675.3	c.2835-1G>C	Causal	epissage, GGC 5/10/18
+PALB2	NM_024675.3	c.2837_2838dup	Causal	troquant
+PALB2	NM_024675.3	c.2851T>C	Likely neutral	frequence
+PALB2	NM_024675.3	c.2896A>G	UV	pas assez d'infos
+PALB2	NM_024675.3	c.2993G>A	Likely neutral	Bioinfo neg
+PALB2	NM_024675.3	c.2996+9dup	Neutral	frequence
+PALB2	NM_024675.3	c.2996+17T>C	Neutral	Frequence
+PALB2	NM_024675.3	c.2997-31G>C	Likely neutral	bioinfo neg
+PALB2	NM_024675.3	c.3054G>C	Likely neutral	Frequence
+PALB2	NM_024675.3	c.3202_*1del	Causal	gde del
+PALB2	NM_024675.3	c.3300T>G	Neutral	Fréquence >>1%
+PALB2	NM_024675.3	c.3350+4A>G	UV	ARN a faire
+PALB2	NM_024675.3	c.3495G>A	Neutral	Frequence
+PALB2	NM_024675.3	c.3549C>G	Causal	sur fonctionnel
+PALB2	NM_024675.3	c.*6_*13delinsAATTTGTATACCACTATTCA	UV	pas d'infos
+RAD51C	NM_058216.2	c.090G>A	Neutral	frequence+hmz
+RAD51C	NM_058216.2	c.134A>G	UV	
+RAD51C	NM_058216.2	c.145+3A>C	Causal	decision du ggc splice du 22/1/19 modélisation suggestiv; histoire familiale sein+ovaire, autres gènes du panel négatifs. Etude ARN en cours/ decision groupe splice
+RAD51C	NM_058216.2	c.146-8A>G	Likely neutral	Frequence+hmz
+RAD51C	NM_058216.2	c.186A>G	Neutral	Frequence
+RAD51C	NM_058216.2	c.376G>A	Likely neutral	Frequence+hmz
+RAD51C	NM_058216.2	c.572-17G>T	Likely neutral	frequence+hmz
+RAD51C	NM_058216.2	c.790G>A	Likely neutral	2 hmz, pas neutre a cause de la littérature
+RAD51C	NM_058216.2	c.859A>G	Likely neutral	7 hmz
+RAD51D	NM_002878.3	c.1A>T	UV	
+RAD51D	NM_002878.3	c.234C>T	Neutral	
+RAD51D	NM_002878.3	c.481-7G>A	Likely neutral	
+RAD51D	NM_002878.3	c.494G>A	Neutral	
+RAD51D	NM_002878.3	c.698A>G	Neutral	
+RAD51D	NM_002878.3	c.800_809del	Causal	
