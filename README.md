@@ -12,7 +12,7 @@ yum install git
 
 ### step 2 - intall docker
 
-[ref](https://github.com/NaturalHistoryMuseum/scratchpads2/wiki/Install-Docker-and-Docker-Compose-%28Centos-7%29)
+for centos7 -> [source](https://github.com/NaturalHistoryMuseum/scratchpads2/wiki/Install-Docker-and-Docker-Compose-%28Centos-7%29)
 
 ```bash
 yum install -y yum-utils device-mapper-persistent-data lvm2
