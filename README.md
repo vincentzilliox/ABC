@@ -2,7 +2,16 @@
 
 Annoying Bioinformatic Curation
 
-## Installation
+##Requirments
+
+install git
+```bash
+yum install git
+```
+
+install docker: [link](https://www.docker.com/)
+
+## installation
 
 ```bash
 git clone https://github.com/vincentzilliox/ABC.git
