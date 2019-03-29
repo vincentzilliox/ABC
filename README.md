@@ -2,14 +2,14 @@
 
 Annoying Bioinformatic Curation
 
-##Requirments
+##Requirements
 
 install git
 ```bash
 yum install git
 ```
 
-install docker: [link](https://www.docker.com/)
+install [docker](https://www.docker.com/)
 
 ## installation
 
