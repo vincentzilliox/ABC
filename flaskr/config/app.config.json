@@ -1,0 +1,51 @@
+{
+	"Merge TSV":{
+		"script":"python2.7",
+		"script_location":"/home1/TOOLS/tools/candid/dev/bin/tsvToCanDiD.py",
+		"output":"stdout",
+		"options":{
+			"-i":{
+				"name":"input file",
+				"type":"mfile",
+				"sep":","
+			},
+			"-s":{
+				"name":"stringency",
+				"type":"integer",
+				"choice":["0","1","2"],
+				"default":"1"
+			},
+			"-t":{
+				"name":"convert to string",
+				"type":"boolean",
+				"default":"False"
+			},
+			"--index":{
+				"default":"CHROM,POS,REF,ALT",
+				"type":"string",
+			}
+		}
+	},
+	"Cytogenetique":{
+		"script":"sh",
+		"script_location":"/home1/L/CYTOGENETIQUE/SNP_Illumina/programmes/script.sh",
+		"output":"-o",
+		"options":{
+			"-a":{
+				"name":"HOMME",
+				"type":"file"
+			},
+			"-b":{
+				"name":"FEMME",
+				"type":"file"
+			},
+			"-c":{
+				"name":"RECLUSTERING",
+				"type":"file"
+			},
+			"-o":{
+				"default":"cartagenia.reclustering.txt"
+			}
+		}
+	}
+}
