@@ -18,4 +18,8 @@ for tool in data:
 	cleanTool = re.sub('\W+','', tool )
 	websiteTemplate=appPath+"templates/"+cleanTool+"/index.html"
 	websiteView=appPath+cleanTool
+<<<<<<< HEAD
 	print(websiteTemplate,websiteView)
+=======
+	print(websiteTemplate,websiteView)
+>>>>>>> a30eda84267f0a52558bd8e3abe6240bde8b9ad2
