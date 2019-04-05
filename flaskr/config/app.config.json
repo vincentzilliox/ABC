@@ -1,51 +1,73 @@
 {
 	"Merge TSV":{
+		"app":"IRC",
 		"script":"python2.7",
 		"script_location":"/home1/TOOLS/tools/candid/dev/bin/tsvToCanDiD.py",
 		"output":"stdout",
-		"options":{
-			"-i":{
+		"options":[
+			{
+				"option":"-i",
 				"name":"input file",
 				"type":"mfile",
 				"sep":","
 			},
-			"-s":{
+			{
+				"option":"-s",
 				"name":"stringency",
 				"type":"integer",
 				"choice":["0","1","2"],
 				"default":"1"
 			},
-			"-t":{
+			{
+				"option":"-t",
 				"name":"convert to string",
 				"type":"boolean",
 				"default":"False"
 			},
-			"--index":{
+			{
+				"option":"--index",
 				"default":"CHROM,POS,REF,ALT",
-				"type":"string",
+				"type":"string"
 			}
-		}
+		]
 	},
 	"Cytogenetique":{
+		"app":"DIAG",
 		"script":"sh",
 		"script_location":"/home1/L/CYTOGENETIQUE/SNP_Illumina/programmes/script.sh",
 		"output":"-o",
-		"options":{
-			"-a":{
+		"options":[
+			{
+				"option":"-a",
 				"name":"HOMME",
 				"type":"file"
 			},
-			"-b":{
+			{
+				"option":"-b",
 				"name":"FEMME",
 				"type":"file"
 			},
-			"-c":{
+			{
+				"option":"-c",
 				"name":"RECLUSTERING",
 				"type":"file"
 			},
-			"-o":{
+			{
+				"option":"-o",
 				"default":"cartagenia.reclustering.txt"
 			}
-		}
+		]
+	},
+	"Test":{
+		"app":"IRC",
+		"script":"python2.7",
+		"script_location":"/home1/TOOLS/tools/candid/dev/bin/tsvToCanDiD.py",
+		"output":"stdout",
+		"options":[
+			{
+				"option":"--help",
+				"type":"boolean"
+			}
+		]
 	}
 }
