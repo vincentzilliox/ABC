@@ -2,67 +2,64 @@
 	"Merge TSV":{
 		"app":"IRC",
 		"script":"python2.7",
-		"script_location":"/home1/TOOLS/tools/candid/dev/bin/tsvToCanDiD.py",
+		"script_location":"/app/flaskr/toolkit/tsvToCanDiD.py",
 		"output":"stdout",
+		"output_file_extension":"merged.final.tsv",
+		"comment":"Merge multiple STARK tsv files in one",
 		"options":[
 			{
-				"option":"-i",
+				"option":"-a",
+				"comment":"list of input file (SAMPLE.final.tsv)",
 				"name":"input file",
-				"type":"mfile",
+				"type":"file",
 				"sep":","
 			},
 			{
-				"option":"-s",
-				"name":"stringency",
-				"type":"integer",
-				"choice":["0","1","2"],
-				"default":"1"
+				"option":"-c",
+				"type":"file",
+				"default":"/app/flaskr/config/configuration.concat.json"
 			},
 			{
-				"option":"-t",
-				"name":"convert to string",
-				"type":"boolean",
-				"default":"False"
-			},
-			{
-				"option":"--index",
-				"default":"CHROM,POS,REF,ALT",
-				"type":"string"
+				"option":"--stdout",
+				"type":"boolean"
 			}
 		]
 	},
-	"Cytogenetique":{
+	"Cartagenia":{
 		"app":"DIAG",
 		"script":"sh",
 		"script_location":"/home1/L/CYTOGENETIQUE/SNP_Illumina/programmes/script.sh",
 		"output":"-o",
+		"output_file_extension":"cartagenia.reclustering.txt",
+		"comment":"Create a Cartagenia merged file",
 		"options":[
 			{
 				"option":"-a",
+				"comment":"fichier Catagenia Homme",
 				"name":"HOMME",
 				"type":"file"
 			},
 			{
 				"option":"-b",
+				"comment":"fichier Catagenia FEMME",
 				"name":"FEMME",
 				"type":"file"
 			},
 			{
 				"option":"-c",
+				"comment":"fichier Catagenia Reclustering",
 				"name":"RECLUSTERING",
 				"type":"file"
-			},
-			{
-				"option":"-o",
-				"default":"cartagenia.reclustering.txt"
 			}
 		]
 	},
 	"Test":{
 		"app":"IRC",
 		"script":"python2.7",
-		"script_location":"/home1/TOOLS/tools/candid/dev/bin/tsvToCanDiD.py",
+		"script_location":"/app/flaskr/toolkit/tsvToCanDiD.py",
 		"output":"stdout",
+		"output_file_extension":"merged.final.tsv",
+		"comment":"Testing phase ...",
 		"options":[
 			{
 				"option":"--help",
@@ -70,8 +67,4 @@
 			}
 		]
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a30eda84267f0a52558bd8e3abe6240bde8b9ad2

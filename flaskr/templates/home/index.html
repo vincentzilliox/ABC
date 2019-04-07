@@ -1,9 +1,13 @@
-{% extends 'base.html' %}
+{% extends 'tools.html' %}
 
 {% block header %}
-  <h1>{% block title %}Welcome Home!{% endblock %}</h1>
+	<div class="jumbotron jumbotron-fluid" style="margin:10px;">
+		<div class="container">
+  		<h1 class="display-4">{% block title %}Welcome!{% endblock %}</h1>
+			<p class="lead">A simple way to launch basic bioinformatic commands</p>
+  	</div>
+  </div>
 {% endblock %}
 
 {% block content %}
-  <p>HELLO FOLKS !!</p>
 {% endblock %}

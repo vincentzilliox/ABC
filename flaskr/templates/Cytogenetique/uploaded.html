@@ -1,0 +1,9 @@
+{% extends 'tools.html' %}
+{% block header %}
+	<h1>{% block title %}Cytogenetique uploaded{% endblock %}</h1>
+{% endblock %}
+{% block content %}
+	<a href="{{ url_for('Cytogenetique.getuploaded', filename=filename) }}">
+		<button>Download Results</button>
+	</a>
+{% endblock %}

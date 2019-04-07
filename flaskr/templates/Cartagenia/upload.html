@@ -1,0 +1,45 @@
+{% extends 'tools.html' %}
+{% block header %}
+	<div class="jumbotron jumbotron-fluid" style="margin:10px;">
+		<div class="container">
+			<h1 class="display-4"  id="color-theme">{% block title %}Cartagenia{% endblock %}</h1>
+			<p class="lead">Create a Cartagenia merged file</p>
+		</div>
+	</div>
+{% endblock %}
+{% block content %}
+	<div id="loading"></div>
+	<div id="content">
+		<form method="POST" enctype="multipart/form-data">
+			<div class="row border-bottom">
+				<div class="col-md-4">
+					<a class="font-weight-bold" data-toggle="tooltip" data-placement="top" title="fichier Catagenia Homme">HOMME: </a>
+				</div>
+				<div class="col-md-4">
+					<input type="file" name="HOMME" multiple>
+				</div>
+			</div>
+			<div class="row border-bottom">
+				<div class="col-md-4">
+					<a class="font-weight-bold" data-toggle="tooltip" data-placement="top" title="fichier Catagenia FEMME">FEMME: </a>
+				</div>
+				<div class="col-md-4">
+					<input type="file" name="FEMME" multiple>
+				</div>
+			</div>
+			<div class="row border-bottom">
+				<div class="col-md-4">
+					<a class="font-weight-bold" data-toggle="tooltip" data-placement="top" title="fichier Catagenia Reclustering">RECLUSTERING: </a>
+				</div>
+				<div class="col-md-4">
+					<input type="file" name="RECLUSTERING" multiple>
+				</div>
+			</div>
+		<div class="row justify-content-center">
+			<div class="col-4">
+				<input  class="btn btn-primary" type="submit" value="Submit" onclick="loading();">
+			</div>
+		</div>
+		</form>
+	</div>
+{% endblock %}

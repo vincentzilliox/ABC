@@ -1,0 +1,21 @@
+{% extends 'tools.html' %}
+{% block header %}
+	<div class="jumbotron jumbotron-fluid alert-success" style="margin:10px;">
+		<div class="container">
+			<h1 class="display-4">{% block title %}Successfuly uploaded !{% endblock %}</h1>
+			<p class="lead">
+				<a href="{{ url_for('Cartagenia.getuploaded', filename=filename) }}">
+					<button class="btn btn-primary">Download</button>
+				</a>Click to access to the result
+			</p>
+		</div>
+	</div>
+{% endblock %}
+{% block content %}
+	<div class="alert alert-warning alert-dismissible fade show" role="alert" style="margin:10px;">
+		<strong>Warning</strong>: Please check your results carefully (<strong>beta version</strong>)
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+{% endblock %}
