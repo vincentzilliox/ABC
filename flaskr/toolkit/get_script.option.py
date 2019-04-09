@@ -53,31 +53,47 @@ def buidView(data, appPath):
 			for opt in options:
 				if "name" in opt:
 					optname = re.sub('\W+','', opt["name"] )
-					if opt["type"] == "file":
+					
+					if opt["type"] == "boolean":
+						outfile.write("\t\t"+optname+"=request.form.get('"+optname+"')\n")
+						outfile.write("\t\tif "+optname+" == 'Yes' :\n")
+						outfile.write("\t\t\tboolean_opt.append('"+opt["option"]+"')\n")
+
+					elif opt["type"] == "file":
 						outfile.write("\t\tinputfilelist = []\n")
 						outfile.write("\t\tfor f in request.files.getlist('"+optname+"'):\n")
 						outfile.write("\t\t\tf.save(os.path.join(UPLOAD_FOLDER, f.filename))\n")
 						outfile.write("\t\t\tfile_to_process=UPLOAD_FOLDER+'/'+f.filename\n")
 						outfile.write("\t\t\tinputfilelist.append(file_to_process)\n")
-						outfile.write("\t\t"+optname+" = ','.join(inputfilelist)\n")
-						choice_option_list.append("' "+opt["option"]+" '+"+optname+"+")
-
-					elif opt["type"] == "boolean":
-						outfile.write("\t\t"+optname+"=request.form.get('"+optname+"')\n")
-						outfile.write("\t\tif "+optname+" == 'Yes' :\n")
-						outfile.write("\t\t\tboolean_opt.append('"+opt["option"]+"')\n")
+						if "sep" in opt:
+							outfile.write("\t\t"+optname+" = '"+opt["sep"]+"'.join(inputfilelist)\n")
+						else:
+							outfile.write("\t\t"+optname+" = ','.join(inputfilelist)\n")
+						if "option" in opt:
+							choice_option_list.append("' "+opt["option"]+" '+"+optname)
+						else:
+							choice_option_list.append(optname)
 
 					else:
 						outfile.write("\t\t"+optname+"=request.form.get('"+optname+"')\n")
-						choice_option_list.append("' "+opt["option"]+" '+"+optname+"+")
+						if "option" in opt:
+							choice_option_list.append("' "+opt["option"]+" '+"+optname)
+						else:
+							choice_option_list.append(optname)
 				else:
 					if "default" in opt:
-						default_option_list.append(opt["option"]+" \""+opt["default"]+"\"")
+						if "option" in opt:
+							default_option_list.append(opt["option"]+" \""+opt["default"]+"\"")
+						else:
+							default_option_list.append(opt["default"])
 					else:
 						default_option_list.append(opt["option"])
 
 			outfile.write("\t\tdefault_opt = '"+" ".join(default_option_list)+"'\n")
-			outfile.write("\t\tchoice_opt = "+"".join(choice_option_list)+"' '\n")
+			if choice_option_list:
+				outfile.write("\t\tchoice_opt = "+" + ' ' + ".join(choice_option_list)+"\n")
+			else:
+				outfile.write("\t\tchoice_opt = ''\n")
 			outfile.write("\t\toutputfilename=CURRENT_DATE+'."+output_file_extension+"'\n")
 			outfile.write("\t\toutputfile=UPLOAD_FOLDER+'/'+outputfilename\n")
 
@@ -146,7 +162,13 @@ def buildTemplate(data, appPath):
 					else:
 						outfile.write("\t\t\t\t\t<select name=\""+optname+"\">\n")
 						for item in opt["choice"]:
-							outfile.write("\t\t\t\t\t\t<option value=\""+item+"\">"+item+"</option>\n")
+							if "default" in opt:
+								if item == opt["default"]:
+									outfile.write("\t\t\t\t\t\t<option selected=\"selected\" value=\""+item+"\">"+item+"</option>\n")
+								else:
+									outfile.write("\t\t\t\t\t\t<option value=\""+item+"\">"+item+"</option>\n")
+							else:
+								outfile.write("\t\t\t\t\t\t<option value=\""+item+"\">"+item+"</option>\n")
 						outfile.write("\t\t\t\t\t</select><br>\n")
 					outfile.write("\t\t\t\t</div>\n")
 					outfile.write("\t\t\t</div>\n")

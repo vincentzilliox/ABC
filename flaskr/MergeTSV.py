@@ -16,7 +16,7 @@ def upload():
 			inputfilelist.append(file_to_process)
 		inputfile = ','.join(inputfilelist)
 		default_opt = '-c "/app/flaskr/config/configuration.concat.json" --stdout'
-		choice_opt = ' -a '+inputfile+' '
+		choice_opt = ' -a '+inputfile
 		outputfilename=CURRENT_DATE+'.merged.final.tsv'
 		outputfile=UPLOAD_FOLDER+'/'+outputfilename
 		subprocess.call('python2.7 /app/flaskr/toolkit/tsvToCanDiD.py' + ' ' + default_opt + ' ' + choice_opt + ' ' + " ".join(boolean_opt) + ' > '+outputfile, shell=True)

@@ -1,0 +1,43 @@
+{% extends 'tools.html' %}
+{% block header %}
+	<div class="jumbotron jumbotron-fluid" style="margin:10px;">
+		<div class="container">
+			<h1 class="display-4"  id="color-theme">{% block title %}Args{% endblock %}</h1>
+			<p class="lead">This page test a command that contain args</p>
+		</div>
+	</div>
+{% endblock %}
+{% block content %}
+	<div id="loading"></div>
+	<div id="content">
+		<form method="POST" enctype="multipart/form-data">
+			<div class="row border-bottom">
+				<div class="col-md-4">
+					<a class="font-weight-bold" data-toggle="tooltip" data-placement="top" title="choose a file">File: </a>
+				</div>
+				<div class="col-md-4">
+					<input type="file" name="File" multiple>
+				</div>
+			</div>
+			<div class="row border-bottom">
+				<div class="col-md-4">
+					<a class="font-weight-bold" data-toggle="tooltip" data-placement="top" title="choose a argument">Argument: </a>
+				</div>
+				<div class="col-md-4">
+					<select name="Argument">
+						<option value="a">a</option>
+						<option selected="selected" value="b">b</option>
+						<option value="c">c</option>
+						<option value="d">d</option>
+						<option value="e">e</option>
+					</select><br>
+				</div>
+			</div>
+		<div class="row justify-content-center">
+			<div class="col-4">
+				<input  class="btn btn-primary" type="submit" value="Submit" onclick="loading();">
+			</div>
+		</div>
+		</form>
+	</div>
+{% endblock %}

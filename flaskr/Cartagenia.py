@@ -10,28 +10,28 @@ def upload():
 	if request.method == 'POST':
 		boolean_opt = []
 		inputfilelist = []
-		for f in request.files.getlist('HOMME'):
+		for f in request.files.getlist('Femmes'):
 			f.save(os.path.join(UPLOAD_FOLDER, f.filename))
 			file_to_process=UPLOAD_FOLDER+'/'+f.filename
 			inputfilelist.append(file_to_process)
-		HOMME = ','.join(inputfilelist)
+		Femmes = ','.join(inputfilelist)
 		inputfilelist = []
-		for f in request.files.getlist('FEMME'):
+		for f in request.files.getlist('Hommes'):
 			f.save(os.path.join(UPLOAD_FOLDER, f.filename))
 			file_to_process=UPLOAD_FOLDER+'/'+f.filename
 			inputfilelist.append(file_to_process)
-		FEMME = ','.join(inputfilelist)
+		Hommes = ','.join(inputfilelist)
 		inputfilelist = []
-		for f in request.files.getlist('RECLUSTERING'):
+		for f in request.files.getlist('Reclustering'):
 			f.save(os.path.join(UPLOAD_FOLDER, f.filename))
 			file_to_process=UPLOAD_FOLDER+'/'+f.filename
 			inputfilelist.append(file_to_process)
-		RECLUSTERING = ','.join(inputfilelist)
+		Reclustering = ','.join(inputfilelist)
 		default_opt = ''
-		choice_opt = ' -a '+HOMME+' -b '+FEMME+' -c '+RECLUSTERING+' '
+		choice_opt = ' -f '+Femmes + ' ' + ' -m '+Hommes + ' ' + ' -r '+Reclustering
 		outputfilename=CURRENT_DATE+'.cartagenia.reclustering.txt'
 		outputfile=UPLOAD_FOLDER+'/'+outputfilename
-		subprocess.call('sh /home1/L/CYTOGENETIQUE/SNP_Illumina/programmes/script.sh' + ' ' + default_opt + ' ' + choice_opt + ' ' + " ".join(boolean_opt) + ' -o ' + outputfile, shell=True)
+		subprocess.call('sh /app/flaskr/toolkit/cartagenia.sh' + ' ' + default_opt + ' ' + choice_opt + ' ' + " ".join(boolean_opt) + ' -o ' + outputfile, shell=True)
 		return redirect(url_for('Cartagenia.uploaded', filename=outputfilename))
 	return render_template('Cartagenia/upload.html')
 

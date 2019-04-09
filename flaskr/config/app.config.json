@@ -28,43 +28,71 @@
 	"Cartagenia":{
 		"app":"DIAG",
 		"script":"sh",
-		"script_location":"/home1/L/CYTOGENETIQUE/SNP_Illumina/programmes/script.sh",
+		"script_location":"/app/flaskr/toolkit/cartagenia.sh",
 		"output":"-o",
 		"output_file_extension":"cartagenia.reclustering.txt",
 		"comment":"Create a Cartagenia merged file",
 		"options":[
 			{
-				"option":"-a",
+				"option":"-f",
+				"comment":"fichier Catagenia Femme",
+				"name":"Femmes",
+				"type":"file"
+			},
+			{
+				"option":"-m",
 				"comment":"fichier Catagenia Homme",
-				"name":"HOMME",
+				"name":"Hommes",
 				"type":"file"
 			},
 			{
-				"option":"-b",
-				"comment":"fichier Catagenia FEMME",
-				"name":"FEMME",
-				"type":"file"
-			},
-			{
-				"option":"-c",
+				"option":"-r",
 				"comment":"fichier Catagenia Reclustering",
-				"name":"RECLUSTERING",
+				"name":"Reclustering",
 				"type":"file"
 			}
 		]
 	},
-	"Test":{
-		"app":"IRC",
-		"script":"python2.7",
-		"script_location":"/app/flaskr/toolkit/tsvToCanDiD.py",
+	"Args":{
+		"app":"DIAG",
+		"script":"sh",
+		"script_location":"/app/flaskr/toolkit/args_test.sh",
 		"output":"stdout",
-		"output_file_extension":"merged.final.tsv",
-		"comment":"Testing phase ...",
+		"output_file_extension":"test_args.txt",
+		"comment":"This page test a command that contain args",
 		"options":[
 			{
-				"option":"--help",
-				"type":"boolean"
+				"name":"File",
+				"comment":"choose a file",
+				"type":"file"
+			},
+			{
+				"name":"Argument",
+				"comment":"choose a argument",
+				"choice":["a","b","c","d","e"],
+				"default":"b",
+				"type":"text"
 			}
 		]
 	}
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
