@@ -4,6 +4,4 @@ FILE_TO_SAVE=$1
 COMMENT=$2
 [[ -z $COMMENT ]] && COMMENT="[AUTO] update"
 
-git add $FILE_TO_SAVE
-git commit -m "$COMMENT"
-git push -u origin master
+git add $FILE_TO_SAVE && git commit -m "$COMMENT" && git push -u origin master
