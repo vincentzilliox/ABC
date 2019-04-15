@@ -10,7 +10,7 @@
 			{
 				"option":"-a",
 				"comment":"list of input file (SAMPLE.final.tsv)",
-				"name":"input file",
+				"name":"input files",
 				"type":"file",
 				"sep":","
 			},
@@ -25,29 +25,29 @@
 			}
 		]
 	},
-	"Cartagenia":{
+	"CNV Partition":{
 		"app":"DIAG",
 		"script":"sh",
-		"script_location":"/app/flaskr/toolkit/cartagenia.sh",
+		"script_location":"/app/flaskr/toolkit/CNV_Partition.sh",
 		"output":"-o",
-		"output_file_extension":"cartagenia.reclustering.txt",
-		"comment":"Create a Cartagenia merged file",
+		"output_file_extension":"infinium.reclustering.txt",
+		"comment":"Create an Infinium reclustering merged file",
 		"options":[
 			{
 				"option":"-f",
-				"comment":"fichier Catagenia Femme",
-				"name":"Femmes",
+				"comment":"fichier Infinium reclustering Femme",
+				"name":"Reclustering Femmes",
 				"type":"file"
 			},
 			{
 				"option":"-m",
-				"comment":"fichier Catagenia Homme",
-				"name":"Hommes",
+				"comment":"fichier Infinium reclustering Homme",
+				"name":"Reclustering Hommes",
 				"type":"file"
 			},
 			{
 				"option":"-r",
-				"comment":"fichier Catagenia Reclustering",
+				"comment":"fichier Infinium Reclustering",
 				"name":"Reclustering",
 				"type":"file"
 			}
@@ -59,7 +59,7 @@
 		"script_location":"/app/flaskr/toolkit/args_test.sh",
 		"output":"stdout",
 		"output_file_extension":"test_args.txt",
-		"comment":"This page test a command that contain args",
+		"comment":"This page test a command that contains args",
 		"options":[
 			{
 				"name":"File",

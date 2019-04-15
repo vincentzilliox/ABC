@@ -3,20 +3,20 @@ from flask import request, redirect, url_for, send_from_directory, render_templa
 
 MergeTSV = Blueprint('MergeTSV', __name__, url_prefix='/MergeTSV')
 UPLOAD_FOLDER = '/uploads'
-CURRENT_DATE = datetime.datetime.now().strftime("%F").replace('-','')+'-'+datetime.datetime.now().strftime("%T").replace(':','')
 
 @MergeTSV.route('/upload', methods=['GET', 'POST'])
 def upload():
 	if request.method == 'POST':
+		CURRENT_DATE = datetime.datetime.now().strftime("%F").replace('-','')+'-'+datetime.datetime.now().strftime("%T").replace(':','')
 		boolean_opt = []
 		inputfilelist = []
-		for f in request.files.getlist('inputfile'):
+		for f in request.files.getlist('inputfiles'):
 			f.save(os.path.join(UPLOAD_FOLDER, f.filename))
 			file_to_process=UPLOAD_FOLDER+'/'+f.filename
 			inputfilelist.append(file_to_process)
-		inputfile = ','.join(inputfilelist)
+		inputfiles = ','.join(inputfilelist)
 		default_opt = '-c "/app/flaskr/config/configuration.concat.json" --stdout'
-		choice_opt = ' -a '+inputfile
+		choice_opt = ' -a '+inputfiles
 		outputfilename=CURRENT_DATE+'.merged.final.tsv'
 		outputfile=UPLOAD_FOLDER+'/'+outputfilename
 		subprocess.call('python2.7 /app/flaskr/toolkit/tsvToCanDiD.py' + ' ' + default_opt + ' ' + choice_opt + ' ' + " ".join(boolean_opt) + ' > '+outputfile, shell=True)

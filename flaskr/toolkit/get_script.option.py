@@ -42,10 +42,10 @@ def buidView(data, appPath):
 			outfile.write("from flask import request, redirect, url_for, send_from_directory, render_template, Blueprint\n")
 			outfile.write("\n"+cleanTool+" = Blueprint('"+cleanTool+"', __name__, url_prefix='/"+cleanTool+"')\n")
 			outfile.write("UPLOAD_FOLDER = '/uploads'\n")
-			outfile.write("CURRENT_DATE = datetime.datetime.now().strftime(\"%F\").replace('-','')+'-'+datetime.datetime.now().strftime(\"%T\").replace(':','')\n")
 			outfile.write("\n@"+cleanTool+".route('/upload', methods=['GET', 'POST'])\n")
 			outfile.write("def upload():\n")
 			outfile.write("\tif request.method == 'POST':\n")
+			outfile.write("\t\tCURRENT_DATE = datetime.datetime.now().strftime(\"%F\").replace('-','')+'-'+datetime.datetime.now().strftime(\"%T\").replace(':','')\n")
 			outfile.write("\t\tboolean_opt = []\n")
 			
 			default_option_list=[]
@@ -189,7 +189,7 @@ def buildTemplate(data, appPath):
 			outfile.write("\t\t<div class=\"container\">\n")
 			outfile.write("\t\t\t<h1 class=\"display-4\">{% block title %}Successfuly uploaded !{% endblock %}</h1>\n")
 			outfile.write("\t\t\t<p class=\"lead\">\n")
-			outfile.write("\t\t\t\t<a href=\"{{ url_for('"+cleanTool+".getuploaded', filename=filename) }}\">\n")
+			outfile.write("\t\t\t\t<a href=\"{{ url_for('"+cleanTool+".getuploaded', filename=filename) }}\" download>\n")
 			outfile.write("\t\t\t\t\t<button class=\"btn btn-primary\">Download</button>\n")
 			outfile.write("\t\t\t\t</a>Click to access to the result\n")
 			outfile.write("\t\t\t</p>\n")

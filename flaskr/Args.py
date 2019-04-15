@@ -3,11 +3,11 @@ from flask import request, redirect, url_for, send_from_directory, render_templa
 
 Args = Blueprint('Args', __name__, url_prefix='/Args')
 UPLOAD_FOLDER = '/uploads'
-CURRENT_DATE = datetime.datetime.now().strftime("%F").replace('-','')+'-'+datetime.datetime.now().strftime("%T").replace(':','')
 
 @Args.route('/upload', methods=['GET', 'POST'])
 def upload():
 	if request.method == 'POST':
+		CURRENT_DATE = datetime.datetime.now().strftime("%F").replace('-','')+'-'+datetime.datetime.now().strftime("%T").replace(':','')
 		boolean_opt = []
 		inputfilelist = []
 		for f in request.files.getlist('File'):

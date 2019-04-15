@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
 {% block tool %}
 	<li class="nav-item">
-		<a class="nav-link" href="{{ url_for('Args.upload') }}">Args</a>
-	</li>
-	<li class="nav-item">
 		<a class="nav-link" href="{{ url_for('MergeTSV.upload') }}">MergeTSV</a>
 	</li>
 	<li class="nav-item">
-		<a class="nav-link" href="{{ url_for('Cartagenia.upload') }}">Cartagenia</a>
+		<a class="nav-link" href="{{ url_for('CNVPartition.upload') }}">CNVPartition</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" href="{{ url_for('Args.upload') }}">Args</a>
 	</li>
 {% endblock %}
